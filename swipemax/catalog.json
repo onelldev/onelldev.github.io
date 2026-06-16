@@ -102,12 +102,13 @@
           "#36C79A",
           "#C7FFE9"
         ],
-        "symbolName": "tram"
+        "symbolName": "tram",
+        "imageURL": "https://icm.aexp-static.com/acquisition/card-art/NUS000000274_480x304_straight_withname.png"
       },
       "color": "mint",
       "id": "amex-green",
       "issuer": "American Express",
-      "lastVerified": "2026-06-08T00:00:00Z",
+      "lastVerified": "2026-06-16T00:00:00Z",
       "name": "American Express Green Card",
       "network": "Amex",
       "rotatingPeriods": [],
@@ -130,7 +131,7 @@
         }
       ],
       "sourceName": "American Express",
-      "sourceURL": "https://www.americanexpress.com/en-us/account/get-started/green/earn-rewards"
+      "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/green/"
     },
     {
       "aliases": [
@@ -146,7 +147,8 @@
           "#2369C9",
           "#DDEBFF"
         ],
-        "symbolName": "cart"
+        "symbolName": "cart",
+        "imageURL": "https://icm.aexp-static.com/acquisition/card-art/NUS000000305_480x304_straight_withname.png"
       },
       "color": "blue",
       "id": "amex-blue-cash-preferred",
@@ -197,7 +199,8 @@
           "#36A7FF",
           "#E8F7FF"
         ],
-        "symbolName": "bag"
+        "symbolName": "bag",
+        "imageURL": "https://icm.aexp-static.com/acquisition/card-art/NUS000000264_480x304_straight_withname.png"
       },
       "color": "blue",
       "id": "amex-blue-cash-everyday",
@@ -336,12 +339,13 @@
           "#334C88",
           "#879BC9"
         ],
-        "symbolName": "diamond"
+        "symbolName": "diamond",
+        "imageURL": "https://www.chase.com/content/dam/unified-assets/sapphire-cards/personal/reserve/card_sapphireRes_chip_RFID.jpg"
       },
       "color": "graphite",
       "id": "chase-sapphire-reserve",
       "issuer": "Chase",
-      "lastVerified": "2026-06-08T00:00:00Z",
+      "lastVerified": "2026-06-16T00:00:00Z",
       "name": "Chase Sapphire Reserve",
       "network": "Visa",
       "rotatingPeriods": [],
@@ -394,7 +398,7 @@
       "color": "blue",
       "id": "chase-freedom-original",
       "issuer": "Chase",
-      "lastVerified": "2026-06-08T00:00:00Z",
+      "lastVerified": "2026-06-16T00:00:00Z",
       "name": "Chase Freedom (Original)",
       "network": "Visa",
       "rotatingPeriods": [
@@ -420,6 +424,30 @@
           "sourceURL": "https://www.chase.com/personal/credit-cards/freedom/freedomfive",
           "startDate": "2026-04-01T00:00:00Z",
           "title": "Q2 2026"
+        },
+        {
+          "activationDeadline": "2026-09-14T00:00:00Z",
+          "capNote": "Activation required; gas includes EV charging; up to $1,500 in combined purchases.",
+          "categories": [
+            "gas",
+            "transit",
+            "entertainment",
+            "charity"
+          ],
+          "categoryNames": [
+            "Gas Stations",
+            "Public Transit",
+            "EV Charging",
+            "Select Live Entertainment",
+            "United Way"
+          ],
+          "endDate": "2026-10-01T00:00:00Z",
+          "id": "chase-freedom-q3-2026",
+          "multiplier": 5,
+          "sourceName": "Chase",
+          "sourceURL": "https://www.chase.com/personal/credit-cards/freedom/freedomfive",
+          "startDate": "2026-07-01T00:00:00Z",
+          "title": "Q3 2026"
         }
       ],
       "rules": [
@@ -455,7 +483,7 @@
       "color": "mint",
       "id": "chase-freedom-flex",
       "issuer": "Chase",
-      "lastVerified": "2026-06-08T00:00:00Z",
+      "lastVerified": "2026-06-16T00:00:00Z",
       "name": "Chase Freedom Flex",
       "network": "Mastercard",
       "rotatingPeriods": [
@@ -481,6 +509,30 @@
           "sourceURL": "https://www.chase.com/personal/credit-cards/freedom/freedomfive",
           "startDate": "2026-04-01T00:00:00Z",
           "title": "Q2 2026"
+        },
+        {
+          "activationDeadline": "2026-09-14T00:00:00Z",
+          "capNote": "Activation required; gas includes EV charging; up to $1,500 in combined purchases.",
+          "categories": [
+            "gas",
+            "transit",
+            "entertainment",
+            "charity"
+          ],
+          "categoryNames": [
+            "Gas Stations",
+            "Public Transit",
+            "EV Charging",
+            "Select Live Entertainment",
+            "United Way"
+          ],
+          "endDate": "2026-10-01T00:00:00Z",
+          "id": "chase-freedom-q3-2026",
+          "multiplier": 5,
+          "sourceName": "Chase",
+          "sourceURL": "https://www.chase.com/personal/credit-cards/freedom/freedomfive",
+          "startDate": "2026-07-01T00:00:00Z",
+          "title": "Q3 2026"
         }
       ],
       "rules": [
@@ -569,7 +621,8 @@
           "#2F67C5",
           "#A8D5FF"
         ],
-        "symbolName": "briefcase"
+        "symbolName": "briefcase",
+        "imageURL": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/ink_preferred_card.png"
       },
       "color": "blue",
       "id": "chase-ink-business-preferred",
@@ -616,7 +669,8 @@
           "#3585E8",
           "#D7F0FF"
         ],
-        "symbolName": "printer"
+        "symbolName": "printer",
+        "imageURL": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/ink_cash_card.png"
       },
       "color": "blue",
       "id": "chase-ink-business-cash",
@@ -668,7 +722,8 @@
           "#43B0FF",
           "#E1F7FF"
         ],
-        "symbolName": "infinity"
+        "symbolName": "infinity",
+        "imageURL": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/ink_unlimited_card.png"
       },
       "color": "blue",
       "id": "chase-ink-business-unlimited",
@@ -700,7 +755,8 @@
           "#0A63B7",
           "#F2C14E"
         ],
-        "symbolName": "shippingbox"
+        "symbolName": "shippingbox",
+        "imageURL": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/prime-visa.png"
       },
       "color": "blue",
       "id": "chase-amazon-prime-visa",
@@ -806,7 +862,8 @@
           "#596C82",
           "#D3DAE5"
         ],
-        "symbolName": "airplane"
+        "symbolName": "airplane",
+        "imageURL": "https://ecm.capitalone.com/WCM/card/products/venture_cardart_prim_323x203-1/mobile.png"
       },
       "color": "graphite",
       "id": "capital-one-venture",
@@ -848,7 +905,8 @@
           "#2E8CFF",
           "#DDF0FF"
         ],
-        "symbolName": "airplane"
+        "symbolName": "airplane",
+        "imageURL": "https://ecm.capitalone.com/WCM/card/products/ventureone_cardart_prim_323x203/mobile.png"
       },
       "color": "blue",
       "id": "capital-one-ventureone",
@@ -942,7 +1000,8 @@
           "#E76739",
           "#FFD089"
         ],
-        "symbolName": "fork.knife"
+        "symbolName": "fork.knife",
+        "imageURL": "https://ecm.capitalone.com/WCM/card/products/new-savor-card-art/mobile.png"
       },
       "color": "coral",
       "id": "capital-one-savorone-legacy",
@@ -992,7 +1051,8 @@
           "#7F8A99",
           "#F8FAFC"
         ],
-        "symbolName": "bolt"
+        "symbolName": "bolt",
+        "imageURL": "https://ecm.capitalone.com/WCM/card/products/quicksilver_cardart.png"
       },
       "color": "graphite",
       "id": "capital-one-quicksilver",
@@ -1057,7 +1117,8 @@
           "#1377C9",
           "#DCEEFF"
         ],
-        "symbolName": "airplane.departure"
+        "symbolName": "airplane.departure",
+        "imageURL": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-strata-premier-credit-card/citi-strata-premier-credit-card_306x192.webp?w=194&h=122"
       },
       "color": "blue",
       "id": "citi-strata-premier",
@@ -1113,7 +1174,8 @@
           "#13B8A6",
           "#DDFDF7"
         ],
-        "symbolName": "slider.horizontal.3"
+        "symbolName": "slider.horizontal.3",
+        "imageURL": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-custom-cash-credit-card/citi-custom-cash-credit-card_306x192.webp?w=194&h=122"
       },
       "color": "mint",
       "id": "citi-custom-cash",
@@ -1190,7 +1252,8 @@
           "#E0212D",
           "#FFFFFF"
         ],
-        "symbolName": "building.2"
+        "symbolName": "building.2",
+        "imageURL": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-costco-anywhere-visa-credit-card/citi-costco-anywhere-visa-credit-card_306x192.webp?w=194&h=122"
       },
       "color": "blue",
       "id": "citi-costco-anywhere",
@@ -1291,12 +1354,13 @@
           "#E0212D",
           "#F6D56B"
         ],
-        "symbolName": "slider.horizontal.3"
+        "symbolName": "slider.horizontal.3",
+        "imageURL": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/8ckn_cshsigcm_v_300x188.png"
       },
       "color": "coral",
       "id": "bank-of-america-customized-cash",
       "issuer": "Bank of America",
-      "lastVerified": "2026-06-08T00:00:00Z",
+      "lastVerified": "2026-06-16T00:00:00Z",
       "name": "Bank of America Customized Cash",
       "network": "Visa",
       "rotatingPeriods": [],
@@ -1304,27 +1368,27 @@
         {
           "category": "online",
           "multiplier": 3,
-          "note": "Choice category: online website/app purchases; examples include Amazon, Etsy, Netflix, Ticketmaster and Walmart; exclusions and caps apply"
+          "note": "Choice category: online shopping, including cable, internet, phone plans and streaming; standard 3% after first-year bonus offer, issuer caps apply"
         },
         {
           "category": "gas",
           "multiplier": 3,
-          "note": "Choice category option; issuer caps apply"
+          "note": "Choice category option, including gas and EV charging stations; standard 3% after first-year bonus offer, issuer caps apply"
         },
         {
           "category": "dining",
           "multiplier": 3,
-          "note": "Choice category option; issuer caps apply"
+          "note": "Choice category option; standard 3% after first-year bonus offer, issuer caps apply"
         },
         {
           "category": "travel",
           "multiplier": 3,
-          "note": "Choice category option; issuer caps apply"
+          "note": "Choice category option; standard 3% after first-year bonus offer, issuer caps apply"
         },
         {
           "category": "pharmacy",
           "multiplier": 3,
-          "note": "Choice category option; issuer caps apply"
+          "note": "Choice category option: drug stores and pharmacies; standard 3% after first-year bonus offer, issuer caps apply"
         },
         {
           "category": "groceries",
@@ -1337,12 +1401,17 @@
           "note": "Issuer caps apply"
         },
         {
+          "category": "homeImprovement",
+          "multiplier": 3,
+          "note": "Choice category option: home improvement and furnishings; standard 3% after first-year bonus offer, issuer caps apply"
+        },
+        {
           "category": "everyday",
           "multiplier": 1
         }
       ],
       "sourceName": "Bank of America",
-      "sourceURL": "https://www.bankofamerica.com/credit-cards/products/cash-back-credit-card/cash-back-category-choices/"
+      "sourceURL": "https://www.bankofamerica.com/credit-cards/products/cash-back-credit-card/"
     },
     {
       "aliases": [
@@ -1357,7 +1426,8 @@
           "#2D84D8",
           "#E9F4FF"
         ],
-        "symbolName": "infinity"
+        "symbolName": "infinity",
+        "imageURL": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/8cty_cshsigcm_v_250x157.png"
       },
       "color": "blue",
       "id": "bank-of-america-unlimited-cash",
@@ -1388,7 +1458,8 @@
           "#6B7685",
           "#D8DEE7"
         ],
-        "symbolName": "star"
+        "symbolName": "star",
+        "imageURL": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/8CAL_prmsigcm_v_250_158.png"
       },
       "color": "graphite",
       "id": "bank-of-america-premium-rewards",
@@ -1525,7 +1596,8 @@
           "#2EA3FF",
           "#DDF3FF"
         ],
-        "symbolName": "airplane"
+        "symbolName": "airplane",
+        "imageURL": "https://www.discover.com/content/dam/discover/en_us/credit-cards/card-acquisitions/grey-redesign/global/images/cardart/cardart-header-miles-67-60.webp"
       },
       "color": "blue",
       "id": "discover-it-miles",
@@ -1551,7 +1623,7 @@
       ],
       "artwork": {
         "badge": "AUTOGRAPH",
-        "imageURL": "https://cardbenefits.wf.com/wp-content/uploads/2024/07/Autograph-Card_345x217.png",
+        "imageURL": "https://creditcards.wellsfargo.com/W-Card-MarketPlace/v6-15-26/images/Products/Autograph/Autograph-No-Fee-Card-RGB_d.png",
         "palette": [
           "#621414",
           "#C7983B",
@@ -1562,7 +1634,7 @@
       "color": "coral",
       "id": "wells-fargo-autograph",
       "issuer": "Wells Fargo",
-      "lastVerified": "2026-06-08T00:00:00Z",
+      "lastVerified": "2026-06-16T00:00:00Z",
       "name": "Wells Fargo Autograph",
       "network": "Visa",
       "rotatingPeriods": [],
@@ -1599,7 +1671,7 @@
         }
       ],
       "sourceName": "Wells Fargo",
-      "sourceURL": "https://cardsetup.wf.com/autograph/"
+      "sourceURL": "https://creditcards.wellsfargo.com/autograph-visa-credit-card/"
     },
     {
       "aliases": [
@@ -1614,12 +1686,13 @@
           "#A4ADB9",
           "#F2F5F8"
         ],
-        "symbolName": "dollarsign.circle"
+        "symbolName": "dollarsign.circle",
+        "imageURL": "https://phaetoncdn.com/rv/assets/production/a401b51f6b04556657be2abc29604a1f086f2e21/active-cash.9hXxvW2T_ZJ1zTo.webp"
       },
       "color": "graphite",
       "id": "wells-fargo-active-cash",
       "issuer": "Wells Fargo",
-      "lastVerified": "2026-06-08T00:00:00Z",
+      "lastVerified": "2026-06-16T00:00:00Z",
       "name": "Wells Fargo Active Cash",
       "network": "Visa",
       "rotatingPeriods": [],
@@ -1630,7 +1703,7 @@
         }
       ],
       "sourceName": "Wells Fargo",
-      "sourceURL": "https://www.wellsfargo.com/credit-cards/active-cash/terms/"
+      "sourceURL": "https://creditcards.wellsfargo.com/active-cash-credit-card/"
     },
     {
       "aliases": [
@@ -1645,12 +1718,13 @@
           "#B36B2A",
           "#F5DB91"
         ],
-        "symbolName": "airplane.departure"
+        "symbolName": "airplane.departure",
+        "imageURL": "https://creditcards.wellsfargo.com/W-Card-MarketPlace/v6-15-26/images/Products/AutographJourney/WF_Autograph_Journey_Card_d.png"
       },
       "color": "coral",
       "id": "wells-fargo-autograph-journey",
       "issuer": "Wells Fargo",
-      "lastVerified": "2026-06-08T00:00:00Z",
+      "lastVerified": "2026-06-16T00:00:00Z",
       "name": "Wells Fargo Autograph Journey",
       "network": "Visa",
       "rotatingPeriods": [],
@@ -1677,7 +1751,7 @@
         }
       ],
       "sourceName": "Wells Fargo",
-      "sourceURL": "https://www.wellsfargo.com/credit-cards/autograph-journey-visa/terms/"
+      "sourceURL": "https://creditcards.wellsfargo.com/autograph-journey-visa-credit-card/"
     },
     {
       "aliases": [
@@ -1692,7 +1766,8 @@
           "#E2A52E",
           "#FFE8A8"
         ],
-        "symbolName": "fork.knife"
+        "symbolName": "fork.knife",
+        "imageURL": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/photo-altitude-go-angle-left.png"
       },
       "color": "gold",
       "id": "us-bank-altitude-go",
@@ -1742,7 +1817,8 @@
           "#32D6B1",
           "#DFFDF7"
         ],
-        "symbolName": "plus"
+        "symbolName": "plus",
+        "imageURL": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/photo-cash-plus-signature-angle-left.png"
       },
       "color": "mint",
       "id": "us-bank-cash-plus",
@@ -1803,7 +1879,8 @@
           "#607084",
           "#D6DDE7"
         ],
-        "symbolName": "sparkles"
+        "symbolName": "sparkles",
+        "imageURL": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/photo-smartly-visa-angle-left.png"
       },
       "color": "graphite",
       "id": "us-bank-smartly",
@@ -1836,7 +1913,8 @@
           "#FF6A4A",
           "#FFD7A3"
         ],
-        "symbolName": "bag"
+        "symbolName": "bag",
+        "imageURL": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/photo-shopper-cash-rewards--no-glow-2x3.png"
       },
       "color": "coral",
       "id": "us-bank-shopper-cash-rewards",
@@ -1929,7 +2007,8 @@
           "#383F4D",
           "#D1D5DB"
         ],
-        "symbolName": "house"
+        "symbolName": "house",
+        "imageURL": "https://img.bilt.com/43819/1769037123-card-2-banner.png"
       },
       "color": "graphite",
       "id": "bilt-mastercard",
@@ -1960,7 +2039,7 @@
         }
       ],
       "sourceName": "Bilt",
-      "sourceURL": "https://support.biltrewards.com/hc/en-us/articles/5536494904845-Can-I-use-the-Bilt-Mastercard-on-other-expenses-or-just-rent-"
+      "sourceURL": "https://www.bilt.com/card"
     },
     {
       "aliases": [
@@ -2047,6 +2126,6 @@
       "sourceURL": "https://cards.barclaycardus.com/"
     }
   ],
-  "generatedAt": "2026-06-16T13:40:21.739Z",
-  "version": "2026.06.09-major-us"
+  "generatedAt": "2026-06-16T18:09:26.901Z",
+  "version": "2026.06.16-source-refresh"
 }
