@@ -19,7 +19,7 @@
       "color": "gold",
       "id": "amex-gold",
       "issuer": "American Express",
-      "lastVerified": "2026-06-08T00:00:00Z",
+      "lastVerified": "2026-06-16T00:00:00Z",
       "name": "American Express Gold Card",
       "network": "Amex",
       "rotatingPeriods": [],
@@ -38,6 +38,16 @@
           "category": "flights",
           "multiplier": 3,
           "note": "Direct airlines or Amex Travel"
+        },
+        {
+          "category": "hotels",
+          "multiplier": 5,
+          "note": "Prepaid hotels booked through AmexTravel.com or the Amex Travel App"
+        },
+        {
+          "category": "travelPortal",
+          "multiplier": 2,
+          "note": "Prepaid car rentals through Amex Travel and cruises booked through AmexTravel.com"
         },
         {
           "category": "everyday",
@@ -295,28 +305,40 @@
       "color": "blue",
       "id": "chase-sapphire-preferred",
       "issuer": "Chase",
-      "lastVerified": "2026-06-08T00:00:00Z",
+      "lastVerified": "2026-06-17T00:00:00Z",
       "name": "Chase Sapphire Preferred",
       "network": "Visa",
       "rotatingPeriods": [],
       "rules": [
         {
+          "category": "travelPortal",
+          "multiplier": 5,
+          "note": "Chase Travel for flights, hotels, rental cars, cruises, activities and tours"
+        },
+        {
           "category": "dining",
-          "multiplier": 3
+          "multiplier": 3,
+          "note": "Dining worldwide, including takeout and eligible delivery services"
+        },
+        {
+          "category": "gas",
+          "multiplier": 3,
+          "note": "Gas and EV charging"
         },
         {
           "category": "online",
           "multiplier": 3,
-          "note": "Online grocery pickup/delivery from qualifying grocery merchants; excludes Target, Walmart and wholesale clubs"
+          "note": "Online groceries excluding Target, Walmart and wholesale clubs"
         },
         {
           "category": "streaming",
           "multiplier": 3,
-          "note": "Select services: Apple Music/TV, Disney+, ESPN+, FuboTV, Max, Hulu, Netflix, Pandora, Paramount+, Peacock, Showtime, SiriusXM, Sling, Spotify, YouTube Premium/TV and Vudu"
+          "note": "Top streaming services"
         },
         {
           "category": "travel",
-          "multiplier": 2
+          "multiplier": 2,
+          "note": "Travel worldwide, from airfare and hotels to taxis and trains"
         },
         {
           "category": "everyday",
@@ -345,7 +367,7 @@
       "color": "graphite",
       "id": "chase-sapphire-reserve",
       "issuer": "Chase",
-      "lastVerified": "2026-06-16T00:00:00Z",
+      "lastVerified": "2026-06-17T00:00:00Z",
       "name": "Chase Sapphire Reserve",
       "network": "Visa",
       "rotatingPeriods": [],
@@ -353,16 +375,22 @@
         {
           "category": "travelPortal",
           "multiplier": 8,
-          "note": "Chase Travel"
+          "note": "Chase Travel for flights, hotels, rental cars, cruises, activities and tours"
+        },
+        {
+          "category": "flights",
+          "multiplier": 4,
+          "note": "Booked directly with an airline"
+        },
+        {
+          "category": "hotels",
+          "multiplier": 4,
+          "note": "Booked directly with a hotel"
         },
         {
           "category": "dining",
-          "multiplier": 3
-        },
-        {
-          "category": "travel",
           "multiplier": 3,
-          "note": "Travel after eligible annual travel credit"
+          "note": "Restaurants worldwide, including eligible delivery"
         },
         {
           "category": "everyday",
@@ -398,7 +426,7 @@
       "color": "blue",
       "id": "chase-freedom-original",
       "issuer": "Chase",
-      "lastVerified": "2026-06-16T00:00:00Z",
+      "lastVerified": "2026-06-17T00:00:00Z",
       "name": "Chase Freedom (Original)",
       "network": "Visa",
       "rotatingPeriods": [
@@ -462,7 +490,7 @@
         }
       ],
       "sourceName": "Chase",
-      "sourceURL": "https://www.chase.com/content/chase-ux/en/personal/credit-cards/freedom/freedomfive"
+      "sourceURL": "https://www.chase.com/personal/credit-cards/freedom/freedomfive"
     },
     {
       "aliases": [
@@ -483,7 +511,7 @@
       "color": "mint",
       "id": "chase-freedom-flex",
       "issuer": "Chase",
-      "lastVerified": "2026-06-16T00:00:00Z",
+      "lastVerified": "2026-06-17T00:00:00Z",
       "name": "Chase Freedom Flex",
       "network": "Mastercard",
       "rotatingPeriods": [
@@ -492,13 +520,11 @@
           "capNote": "Activation required; up to $1,500 in combined purchases.",
           "categories": [
             "amazon",
-            "groceries",
             "travelPortal",
             "charity"
           ],
           "categoryNames": [
             "Amazon",
-            "Whole Foods Market",
             "Chase Travel",
             "Feeding America"
           ],
@@ -506,33 +532,9 @@
           "id": "chase-freedom-q2-2026",
           "multiplier": 5,
           "sourceName": "Chase",
-          "sourceURL": "https://www.chase.com/personal/credit-cards/freedom/freedomfive",
+          "sourceURL": "https://creditcards.chase.com/cash-back-credit-cards/freedom/flex",
           "startDate": "2026-04-01T00:00:00Z",
           "title": "Q2 2026"
-        },
-        {
-          "activationDeadline": "2026-09-14T00:00:00Z",
-          "capNote": "Activation required; gas includes EV charging; up to $1,500 in combined purchases.",
-          "categories": [
-            "gas",
-            "transit",
-            "entertainment",
-            "charity"
-          ],
-          "categoryNames": [
-            "Gas Stations",
-            "Public Transit",
-            "EV Charging",
-            "Select Live Entertainment",
-            "United Way"
-          ],
-          "endDate": "2026-10-01T00:00:00Z",
-          "id": "chase-freedom-q3-2026",
-          "multiplier": 5,
-          "sourceName": "Chase",
-          "sourceURL": "https://www.chase.com/personal/credit-cards/freedom/freedomfive",
-          "startDate": "2026-07-01T00:00:00Z",
-          "title": "Q3 2026"
         }
       ],
       "rules": [
@@ -581,7 +583,7 @@
       "color": "blue",
       "id": "chase-freedom-unlimited",
       "issuer": "Chase",
-      "lastVerified": "2026-06-08T00:00:00Z",
+      "lastVerified": "2026-06-16T00:00:00Z",
       "name": "Chase Freedom Unlimited",
       "network": "Visa",
       "rotatingPeriods": [],
@@ -627,7 +629,7 @@
       "color": "blue",
       "id": "chase-ink-business-preferred",
       "issuer": "Chase",
-      "lastVerified": "2026-06-08T00:00:00Z",
+      "lastVerified": "2026-06-16T00:00:00Z",
       "name": "Chase Ink Business Preferred",
       "network": "Visa",
       "rotatingPeriods": [],
@@ -675,7 +677,7 @@
       "color": "blue",
       "id": "chase-ink-business-cash",
       "issuer": "Chase",
-      "lastVerified": "2026-06-08T00:00:00Z",
+      "lastVerified": "2026-06-16T00:00:00Z",
       "name": "Chase Ink Business Cash",
       "network": "Visa",
       "rotatingPeriods": [],
@@ -728,7 +730,7 @@
       "color": "blue",
       "id": "chase-ink-business-unlimited",
       "issuer": "Chase",
-      "lastVerified": "2026-06-08T00:00:00Z",
+      "lastVerified": "2026-06-16T00:00:00Z",
       "name": "Chase Ink Business Unlimited",
       "network": "Visa",
       "rotatingPeriods": [],
@@ -761,7 +763,7 @@
       "color": "blue",
       "id": "chase-amazon-prime-visa",
       "issuer": "Chase",
-      "lastVerified": "2026-06-08T00:00:00Z",
+      "lastVerified": "2026-06-16T00:00:00Z",
       "name": "Prime Visa",
       "network": "Visa",
       "rotatingPeriods": [],
@@ -769,12 +771,12 @@
         {
           "category": "amazon",
           "multiplier": 5,
-          "note": "Amazon.com, Amazon Fresh and Whole Foods with eligible Prime membership"
+          "note": "Amazon.com and Audible.com with eligible Prime membership"
         },
         {
           "category": "groceries",
           "multiplier": 5,
-          "note": "Whole Foods and Amazon Fresh with eligible Prime membership"
+          "note": "Whole Foods Market with eligible Prime membership"
         },
         {
           "category": "travelPortal",
@@ -820,7 +822,7 @@
       "color": "graphite",
       "id": "capital-one-venture-x",
       "issuer": "Capital One",
-      "lastVerified": "2026-06-08T00:00:00Z",
+      "lastVerified": "2026-06-16T00:00:00Z",
       "name": "Capital One Venture X",
       "network": "Visa",
       "rotatingPeriods": [],
@@ -828,17 +830,22 @@
         {
           "category": "hotels",
           "multiplier": 10,
-          "note": "Hotels and rental cars through Capital One Travel"
+          "note": "Hotels and rental cars booked through Capital One Travel"
         },
         {
           "category": "flights",
           "multiplier": 5,
-          "note": "Flights through Capital One Travel"
+          "note": "Flights booked through Capital One Travel"
         },
         {
           "category": "travelPortal",
           "multiplier": 5,
-          "note": "Flights through Capital One Travel"
+          "note": "Flights and vacation rentals booked through Capital One Travel"
+        },
+        {
+          "category": "entertainment",
+          "multiplier": 5,
+          "note": "Capital One Entertainment ticketing platform purchases"
         },
         {
           "category": "everyday",
@@ -868,7 +875,7 @@
       "color": "graphite",
       "id": "capital-one-venture",
       "issuer": "Capital One",
-      "lastVerified": "2026-06-08T00:00:00Z",
+      "lastVerified": "2026-06-16T00:00:00Z",
       "name": "Capital One Venture",
       "network": "Visa",
       "rotatingPeriods": [],
@@ -876,12 +883,17 @@
         {
           "category": "hotels",
           "multiplier": 5,
-          "note": "Hotels, vacation rentals and rental cars through Capital One Travel"
+          "note": "Hotels, vacation rentals and rental cars booked through Capital One Travel"
         },
         {
           "category": "travelPortal",
           "multiplier": 5,
-          "note": "Capital One Travel"
+          "note": "Hotels, vacation rentals and rental cars booked through Capital One Travel"
+        },
+        {
+          "category": "entertainment",
+          "multiplier": 5,
+          "note": "Capital One Entertainment ticketing platform purchases"
         },
         {
           "category": "everyday",
@@ -911,7 +923,7 @@
       "color": "blue",
       "id": "capital-one-ventureone",
       "issuer": "Capital One",
-      "lastVerified": "2026-06-08T00:00:00Z",
+      "lastVerified": "2026-06-16T00:00:00Z",
       "name": "Capital One VentureOne",
       "network": "Visa",
       "rotatingPeriods": [],
@@ -919,12 +931,17 @@
         {
           "category": "hotels",
           "multiplier": 5,
-          "note": "Hotels and rental cars through Capital One Travel"
+          "note": "Hotels and rental cars booked through Capital One Travel"
         },
         {
           "category": "travelPortal",
           "multiplier": 5,
-          "note": "Capital One Travel"
+          "note": "Hotels and rental cars booked through Capital One Travel"
+        },
+        {
+          "category": "entertainment",
+          "multiplier": 5,
+          "note": "Capital One Entertainment ticketing platform purchases"
         },
         {
           "category": "everyday",
@@ -954,7 +971,7 @@
       "color": "coral",
       "id": "capital-one-savor",
       "issuer": "Capital One",
-      "lastVerified": "2026-06-08T00:00:00Z",
+      "lastVerified": "2026-06-16T00:00:00Z",
       "name": "Capital One Savor",
       "network": "Mastercard",
       "rotatingPeriods": [],
@@ -971,12 +988,17 @@
         {
           "category": "entertainment",
           "multiplier": 3,
-          "note": "Movie theaters, pro/semi-pro sports promoters, theater promoters, amusement parks, attractions, aquariums, zoos, dance halls, record stores, pool halls and bowling alleys; excludes golf, college sports, cable, streaming and memberships"
+          "note": "Movie theaters, pro/semi-pro sports promoters, theater promoters, amusement parks, attractions, aquariums, zoos, dance halls, record stores, pool halls and bowling alleys; excludes golf, college sports, cable, streaming and memberships. Capital One Entertainment purchases earn 8%."
         },
         {
           "category": "streaming",
           "multiplier": 3,
           "note": "Eligible music and video streaming, including Netflix, Hulu and Disney+; excludes Verizon Fios On Demand, audiobooks and fitness programming"
+        },
+        {
+          "category": "travelPortal",
+          "multiplier": 5,
+          "note": "Hotels, vacation rentals and rental cars booked through Capital One Travel"
         },
         {
           "category": "everyday",
@@ -1001,12 +1023,12 @@
           "#FFD089"
         ],
         "symbolName": "fork.knife",
-        "imageURL": "https://ecm.capitalone.com/WCM/card/products/new-savor-card-art/mobile.png"
+        "imageURL": "https://ecm.capitalone.com/WCM/card/products/savorone-2025-cardart.png"
       },
       "color": "coral",
       "id": "capital-one-savorone-legacy",
       "issuer": "Capital One",
-      "lastVerified": "2026-06-08T00:00:00Z",
+      "lastVerified": "2026-06-16T00:00:00Z",
       "name": "Capital One SavorOne (Legacy)",
       "network": "Mastercard",
       "rotatingPeriods": [],
@@ -1023,12 +1045,17 @@
         {
           "category": "entertainment",
           "multiplier": 3,
-          "note": "Movie theaters, pro/semi-pro sports promoters, theater promoters, amusement parks, attractions, aquariums, zoos, dance halls, record stores, pool halls and bowling alleys; excludes golf, college sports, cable, streaming and memberships"
+          "note": "Movie theaters, pro/semi-pro sports promoters, theater promoters, amusement parks, attractions, aquariums, zoos, dance halls, record stores, pool halls and bowling alleys; excludes golf, college sports, cable, streaming and memberships. Capital One Entertainment purchases earn 8%."
         },
         {
           "category": "streaming",
           "multiplier": 3,
           "note": "Eligible music and video streaming, including Netflix, Hulu and Disney+; excludes Verizon Fios On Demand, audiobooks and fitness programming"
+        },
+        {
+          "category": "travelPortal",
+          "multiplier": 5,
+          "note": "Hotels, vacation rentals and rental cars booked through Capital One Travel"
         },
         {
           "category": "everyday",
@@ -1057,11 +1084,26 @@
       "color": "graphite",
       "id": "capital-one-quicksilver",
       "issuer": "Capital One",
-      "lastVerified": "2026-06-08T00:00:00Z",
+      "lastVerified": "2026-06-16T00:00:00Z",
       "name": "Capital One Quicksilver",
       "network": "Mastercard",
       "rotatingPeriods": [],
       "rules": [
+        {
+          "category": "hotels",
+          "multiplier": 5,
+          "note": "Hotels, vacation rentals and rental cars booked through Capital One Travel"
+        },
+        {
+          "category": "travelPortal",
+          "multiplier": 5,
+          "note": "Hotels, vacation rentals and rental cars booked through Capital One Travel"
+        },
+        {
+          "category": "entertainment",
+          "multiplier": 5,
+          "note": "Capital One Entertainment ticketing platform purchases"
+        },
         {
           "category": "everyday",
           "multiplier": 1.5
@@ -1089,11 +1131,16 @@
       "color": "blue",
       "id": "citi-double-cash",
       "issuer": "Citi",
-      "lastVerified": "2026-06-08T00:00:00Z",
+      "lastVerified": "2026-06-16T00:00:00Z",
       "name": "Citi Double Cash",
       "network": "Mastercard",
       "rotatingPeriods": [],
       "rules": [
+        {
+          "category": "travelPortal",
+          "multiplier": 5,
+          "note": "Hotels, car rentals and attractions booked through Citi Travel"
+        },
         {
           "category": "everyday",
           "multiplier": 2,
@@ -1123,7 +1170,7 @@
       "color": "blue",
       "id": "citi-strata-premier",
       "issuer": "Citi",
-      "lastVerified": "2026-06-08T00:00:00Z",
+      "lastVerified": "2026-06-16T00:00:00Z",
       "name": "Citi Strata Premier",
       "network": "Mastercard",
       "rotatingPeriods": [],
@@ -1131,15 +1178,17 @@
         {
           "category": "travelPortal",
           "multiplier": 10,
-          "note": "Hotels, rental cars and attractions through Citi Travel"
+          "note": "Hotels, car rentals and attractions booked through Citi Travel"
         },
         {
           "category": "flights",
-          "multiplier": 3
+          "multiplier": 3,
+          "note": "Air travel"
         },
         {
           "category": "hotels",
-          "multiplier": 3
+          "multiplier": 3,
+          "note": "Other hotel purchases"
         },
         {
           "category": "dining",
@@ -1151,7 +1200,8 @@
         },
         {
           "category": "gas",
-          "multiplier": 3
+          "multiplier": 3,
+          "note": "Gas and EV charging stations"
         },
         {
           "category": "everyday",
@@ -1180,15 +1230,20 @@
       "color": "mint",
       "id": "citi-custom-cash",
       "issuer": "Citi",
-      "lastVerified": "2026-06-08T00:00:00Z",
-      "name": "Citi Custom Cash",
+      "lastVerified": "2026-06-16T00:00:00Z",
+      "name": "Citi Custom Cash (Legacy)",
       "network": "Mastercard",
       "rotatingPeriods": [],
       "rules": [
         {
           "category": "rotating",
           "multiplier": 5,
-          "note": "Top eligible spend category each billing cycle, issuer caps apply"
+          "note": "Top eligible spend category each billing cycle up to $500 spent; no longer open to new applicants"
+        },
+        {
+          "category": "travelPortal",
+          "multiplier": 5,
+          "note": "Hotels, car rentals and attractions booked with Citi Travel; additional 4% on top of 1% base earn"
         },
         {
           "category": "dining",
@@ -1258,7 +1313,7 @@
       "color": "blue",
       "id": "citi-costco-anywhere",
       "issuer": "Citi",
-      "lastVerified": "2026-06-08T00:00:00Z",
+      "lastVerified": "2026-06-17T00:00:00Z",
       "name": "Costco Anywhere Visa",
       "network": "Visa",
       "rotatingPeriods": [],
@@ -1266,15 +1321,17 @@
         {
           "category": "gas",
           "multiplier": 4,
-          "note": "Eligible gas and EV charging; issuer caps apply"
+          "note": "5% at Costco gas and 4% on other eligible gas and EV charging; combined annual cap applies, then 1%"
         },
         {
           "category": "dining",
-          "multiplier": 3
+          "multiplier": 3,
+          "note": "Restaurants worldwide; exclusions apply"
         },
         {
           "category": "travel",
-          "multiplier": 3
+          "multiplier": 3,
+          "note": "Eligible travel, including Costco Travel"
         },
         {
           "category": "warehouse",
@@ -1368,42 +1425,42 @@
         {
           "category": "online",
           "multiplier": 3,
-          "note": "Choice category: online shopping, including cable, internet, phone plans and streaming; standard 3% after first-year bonus offer, issuer caps apply"
+          "note": "Choice category: online shopping, including cable, internet, phone plans and streaming; first-year 6%, then 3%; shares $2,500 quarterly cap"
         },
         {
           "category": "gas",
           "multiplier": 3,
-          "note": "Choice category option, including gas and EV charging stations; standard 3% after first-year bonus offer, issuer caps apply"
+          "note": "Choice category option, including gas and EV charging stations; first-year 6%, then 3%; shares $2,500 quarterly cap"
         },
         {
           "category": "dining",
           "multiplier": 3,
-          "note": "Choice category option; standard 3% after first-year bonus offer, issuer caps apply"
+          "note": "Choice category option; first-year 6%, then 3%; shares $2,500 quarterly cap"
         },
         {
           "category": "travel",
           "multiplier": 3,
-          "note": "Choice category option; standard 3% after first-year bonus offer, issuer caps apply"
+          "note": "Choice category option; first-year 6%, then 3%; shares $2,500 quarterly cap"
         },
         {
           "category": "pharmacy",
           "multiplier": 3,
-          "note": "Choice category option: drug stores and pharmacies; standard 3% after first-year bonus offer, issuer caps apply"
+          "note": "Choice category option: drug stores and pharmacies; first-year 6%, then 3%; shares $2,500 quarterly cap"
         },
         {
           "category": "groceries",
           "multiplier": 2,
-          "note": "Issuer caps apply"
+          "note": "Automatic 2%; shares $2,500 quarterly cap with choice category and wholesale clubs"
         },
         {
           "category": "warehouse",
           "multiplier": 2,
-          "note": "Issuer caps apply"
+          "note": "Automatic 2%; shares $2,500 quarterly cap with choice category and grocery stores"
         },
         {
           "category": "homeImprovement",
           "multiplier": 3,
-          "note": "Choice category option: home improvement and furnishings; standard 3% after first-year bonus offer, issuer caps apply"
+          "note": "Choice category option: home improvement and furnishings; first-year 6%, then 3%; shares $2,500 quarterly cap"
         },
         {
           "category": "everyday",
@@ -1432,14 +1489,15 @@
       "color": "blue",
       "id": "bank-of-america-unlimited-cash",
       "issuer": "Bank of America",
-      "lastVerified": "2026-06-08T00:00:00Z",
+      "lastVerified": "2026-06-16T00:00:00Z",
       "name": "Bank of America Unlimited Cash",
       "network": "Visa",
       "rotatingPeriods": [],
       "rules": [
         {
           "category": "everyday",
-          "multiplier": 1.5
+          "multiplier": 1.5,
+          "note": "Unlimited 1.5% after first year; current offer earns 2% for the first year"
         }
       ],
       "sourceName": "Bank of America",
@@ -1464,22 +1522,25 @@
       "color": "graphite",
       "id": "bank-of-america-premium-rewards",
       "issuer": "Bank of America",
-      "lastVerified": "2026-06-08T00:00:00Z",
+      "lastVerified": "2026-06-16T00:00:00Z",
       "name": "Bank of America Premium Rewards",
       "network": "Visa",
       "rotatingPeriods": [],
       "rules": [
         {
           "category": "travel",
-          "multiplier": 2
+          "multiplier": 2,
+          "note": "2 points per $1 on travel purchases; no earning cap stated by issuer"
         },
         {
           "category": "dining",
-          "multiplier": 2
+          "multiplier": 2,
+          "note": "2 points per $1 on dining purchases; no earning cap stated by issuer"
         },
         {
           "category": "everyday",
-          "multiplier": 1.5
+          "multiplier": 1.5,
+          "note": "1.5 points per $1 on all other purchases; no earning cap stated by issuer"
         }
       ],
       "sourceName": "Bank of America",
@@ -1503,7 +1564,7 @@
       "color": "graphite",
       "id": "apple-card",
       "issuer": "Goldman Sachs",
-      "lastVerified": "2026-06-08T00:00:00Z",
+      "lastVerified": "2026-06-16T00:00:00Z",
       "name": "Apple Card",
       "network": "Mastercard",
       "rotatingPeriods": [],
@@ -1511,17 +1572,17 @@
         {
           "category": "apple",
           "multiplier": 3,
-          "note": "Apple and select 3% merchants with Apple Pay"
+          "note": "Unlimited 3% Daily Cash at Apple and select merchants with Apple Pay; merchant offers may change"
         },
         {
           "category": "mobileWallet",
           "multiplier": 2,
-          "note": "Apple Pay"
+          "note": "Unlimited 2% Daily Cash when using Apple Card with Apple Pay outside 3% merchants"
         },
         {
           "category": "everyday",
           "multiplier": 1,
-          "note": "Physical titanium card"
+          "note": "1% Daily Cash with the titanium card or virtual card number where Apple Pay is not used"
         }
       ],
       "sourceName": "Apple",
@@ -1546,7 +1607,7 @@
       "color": "coral",
       "id": "discover-it-cash-back",
       "issuer": "Discover",
-      "lastVerified": "2026-06-08T00:00:00Z",
+      "lastVerified": "2026-06-17T00:00:00Z",
       "name": "Discover it Cash Back",
       "network": "Discover",
       "rotatingPeriods": [
@@ -1567,6 +1628,27 @@
           "sourceURL": "https://www.discover.com/credit-cards/cash-back/cashback-calendar.html",
           "startDate": "2026-04-01T00:00:00Z",
           "title": "Q2 2026"
+        },
+        {
+          "capNote": "Activation required; up to $1,500 in purchases.",
+          "categories": [
+            "gas",
+            "flights",
+            "transit",
+            "pharmacy"
+          ],
+          "categoryNames": [
+            "Gas Stations",
+            "Transportation",
+            "Drug Stores"
+          ],
+          "endDate": "2026-10-01T00:00:00Z",
+          "id": "discover-it-q3-2026",
+          "multiplier": 5,
+          "sourceName": "Discover",
+          "sourceURL": "https://www.discover.com/credit-cards/cash-back/cashback-calendar.html",
+          "startDate": "2026-07-01T00:00:00Z",
+          "title": "Q3 2026"
         }
       ],
       "rules": [
@@ -1581,7 +1663,7 @@
         }
       ],
       "sourceName": "Discover",
-      "sourceURL": "https://www.discovercard.com/discover/data/cashback/"
+      "sourceURL": "https://www.discover.com/credit-cards/cash-back/it-card/"
     },
     {
       "aliases": [
@@ -1597,12 +1679,12 @@
           "#DDF3FF"
         ],
         "symbolName": "airplane",
-        "imageURL": "https://www.discover.com/content/dam/discover/en_us/credit-cards/card-acquisitions/grey-redesign/global/images/cardart/cardart-header-miles-67-60.webp"
+        "imageURL": "https://www.discover.com/content/dam/discover/en_us/credit-cards/card-acquisitions/grey-redesign/global/images/cardart/cardart-travel-beachcard-620-382.png"
       },
       "color": "blue",
       "id": "discover-it-miles",
       "issuer": "Discover",
-      "lastVerified": "2026-06-08T00:00:00Z",
+      "lastVerified": "2026-06-16T00:00:00Z",
       "name": "Discover it Miles",
       "network": "Discover",
       "rotatingPeriods": [],
@@ -1645,15 +1727,18 @@
         },
         {
           "category": "travel",
-          "multiplier": 3
+          "multiplier": 3,
+          "note": "Airfare, hotels, car rentals, cruises and more"
         },
         {
           "category": "gas",
-          "multiplier": 3
+          "multiplier": 3,
+          "note": "Gas stations and electric vehicle charging stations"
         },
         {
           "category": "transit",
-          "multiplier": 3
+          "multiplier": 3,
+          "note": "Transit"
         },
         {
           "category": "streaming",
@@ -1692,7 +1777,7 @@
       "color": "graphite",
       "id": "wells-fargo-active-cash",
       "issuer": "Wells Fargo",
-      "lastVerified": "2026-06-16T00:00:00Z",
+      "lastVerified": "2026-06-17T00:00:00Z",
       "name": "Wells Fargo Active Cash",
       "network": "Visa",
       "rotatingPeriods": [],
@@ -1731,19 +1816,23 @@
       "rules": [
         {
           "category": "hotels",
-          "multiplier": 5
+          "multiplier": 5,
+          "note": "Hotels"
         },
         {
           "category": "flights",
-          "multiplier": 4
+          "multiplier": 4,
+          "note": "Airlines"
         },
         {
           "category": "travel",
-          "multiplier": 3
+          "multiplier": 3,
+          "note": "Other travel"
         },
         {
           "category": "dining",
-          "multiplier": 3
+          "multiplier": 3,
+          "note": "Restaurants"
         },
         {
           "category": "everyday",
@@ -1772,7 +1861,7 @@
       "color": "gold",
       "id": "us-bank-altitude-go",
       "issuer": "U.S. Bank",
-      "lastVerified": "2026-06-08T00:00:00Z",
+      "lastVerified": "2026-06-16T00:00:00Z",
       "name": "U.S. Bank Altitude Go",
       "network": "Visa",
       "rotatingPeriods": [],
@@ -1780,20 +1869,22 @@
         {
           "category": "dining",
           "multiplier": 4,
-          "note": "Issuer caps may apply"
+          "note": "Dining, takeout and restaurant delivery on first $2,000 each quarter"
         },
         {
           "category": "groceries",
-          "multiplier": 2
+          "multiplier": 2,
+          "note": "Grocery stores and supermarkets; excludes discount stores, supercenters and wholesale clubs"
         },
         {
           "category": "gas",
-          "multiplier": 2
+          "multiplier": 2,
+          "note": "Gas stations and EV charging stations; excludes discount stores, supercenters, wholesale clubs and grocery stores"
         },
         {
           "category": "streaming",
           "multiplier": 2,
-          "note": "Eligible streaming services; issuer coding applies"
+          "note": "$15 annual streaming credit after 11 months of streaming purchases"
         },
         {
           "category": "everyday",
@@ -1823,7 +1914,7 @@
       "color": "mint",
       "id": "us-bank-cash-plus",
       "issuer": "U.S. Bank",
-      "lastVerified": "2026-06-08T00:00:00Z",
+      "lastVerified": "2026-06-16T00:00:00Z",
       "name": "U.S. Bank Cash+",
       "network": "Visa",
       "rotatingPeriods": [],
@@ -1831,32 +1922,57 @@
         {
           "category": "rotating",
           "multiplier": 5,
-          "note": "Two selected categories each quarter; issuer caps apply"
+          "note": "Two selected 5% categories each quarter; first $2,000 combined, then 1%"
+        },
+        {
+          "category": "travelPortal",
+          "multiplier": 5,
+          "note": "Air, hotel and car reservations booked directly in the Travel Center"
         },
         {
           "category": "utilities",
           "multiplier": 5,
-          "note": "Potential 5% selected category; issuer caps apply"
+          "note": "Potential 5% selected category: home utilities; first $2,000 combined each quarter"
         },
         {
           "category": "streaming",
           "multiplier": 5,
-          "note": "Potential 5% category: TV, internet and streaming providers paid directly; examples include Netflix, Hulu, Disney+, YouTube, Spotify and Apple Music; third-party billing may not qualify"
+          "note": "Potential 5% selected category: TV, internet and streaming; first $2,000 combined each quarter"
+        },
+        {
+          "category": "bills",
+          "multiplier": 5,
+          "note": "Potential 5% selected category: cell phone providers; first $2,000 combined each quarter"
+        },
+        {
+          "category": "transit",
+          "multiplier": 5,
+          "note": "Potential 5% selected category: ground transportation; first $2,000 combined each quarter"
+        },
+        {
+          "category": "entertainment",
+          "multiplier": 5,
+          "note": "Potential 5% selected category: movie theaters; first $2,000 combined each quarter"
+        },
+        {
+          "category": "homeImprovement",
+          "multiplier": 5,
+          "note": "Potential 5% selected category: furniture stores; first $2,000 combined each quarter"
         },
         {
           "category": "gas",
           "multiplier": 2,
-          "note": "Potential 2% everyday category"
+          "note": "Chosen 2% everyday category: gas stations and EV charging stations"
         },
         {
           "category": "groceries",
           "multiplier": 2,
-          "note": "Potential 2% everyday category"
+          "note": "Chosen 2% everyday category: grocery stores and grocery delivery"
         },
         {
           "category": "dining",
           "multiplier": 2,
-          "note": "Potential 2% everyday category"
+          "note": "Chosen 2% everyday category: restaurants"
         },
         {
           "category": "everyday",
@@ -1885,7 +2001,7 @@
       "color": "graphite",
       "id": "us-bank-smartly",
       "issuer": "U.S. Bank",
-      "lastVerified": "2026-06-08T00:00:00Z",
+      "lastVerified": "2026-06-16T00:00:00Z",
       "name": "U.S. Bank Smartly",
       "network": "Visa",
       "rotatingPeriods": [],
@@ -1893,7 +2009,7 @@
         {
           "category": "everyday",
           "multiplier": 2,
-          "note": "Base rewards can be higher with qualifying U.S. Bank balances"
+          "note": "Base 2%; up to 4% with qualifying Smartly balances, with bonus earn on first $10,000 each billing cycle"
         }
       ],
       "sourceName": "U.S. Bank",
@@ -1919,7 +2035,7 @@
       "color": "coral",
       "id": "us-bank-shopper-cash-rewards",
       "issuer": "U.S. Bank",
-      "lastVerified": "2026-06-08T00:00:00Z",
+      "lastVerified": "2026-06-16T00:00:00Z",
       "name": "U.S. Bank Shopper Cash Rewards",
       "network": "Visa",
       "rotatingPeriods": [],
@@ -1927,22 +2043,27 @@
         {
           "category": "online",
           "multiplier": 6,
-          "note": "Quarterly selected retailers from U.S. Bank list; retailer list changes, caps apply and third-party delivery or subsidiary purchases may not qualify"
+          "note": "Two selected retailers; first $1,500 combined each quarter, then 1.5%"
+        },
+        {
+          "category": "travelPortal",
+          "multiplier": 5.5,
+          "note": "Prepaid hotel and car reservations in the Rewards Center; includes additional 4% on top of 1.5% base earn"
         },
         {
           "category": "warehouse",
           "multiplier": 3,
-          "note": "Choice category option; issuer caps apply"
+          "note": "Chosen 3% category: wholesale clubs; first $1,500 each quarter"
         },
         {
           "category": "gas",
           "multiplier": 3,
-          "note": "Choice category option; issuer caps apply"
+          "note": "Chosen 3% category: gas stations and EV charging stations; first $1,500 each quarter"
         },
         {
           "category": "utilities",
           "multiplier": 3,
-          "note": "Choice category option; issuer caps apply"
+          "note": "Chosen 3% category: bills and home utilities; first $1,500 each quarter"
         },
         {
           "category": "everyday",
@@ -2013,29 +2134,20 @@
       "color": "graphite",
       "id": "bilt-mastercard",
       "issuer": "Wells Fargo",
-      "lastVerified": "2026-06-08T00:00:00Z",
-      "name": "Bilt Mastercard",
+      "lastVerified": "2026-06-16T00:00:00Z",
+      "name": "Bilt Mastercard (Legacy)",
       "network": "Mastercard",
       "rotatingPeriods": [],
       "rules": [
         {
-          "category": "dining",
-          "multiplier": 3,
-          "note": "Requires minimum transactions each statement period"
-        },
-        {
-          "category": "travel",
-          "multiplier": 2,
-          "note": "Direct travel and Bilt Travel; terms apply"
-        },
-        {
           "category": "rent",
-          "multiplier": 1,
-          "note": "Rent payments without transaction fee; terms apply"
+          "multiplier": 0,
+          "note": "Legacy Wells Fargo-issued Bilt Mastercard is no longer an active Wells Fargo rewards card; Bilt now markets its own card lineup"
         },
         {
           "category": "everyday",
-          "multiplier": 1
+          "multiplier": 0,
+          "note": "Legacy/inactive; old 3x dining, 2x travel and 1x rent structure is not current"
         }
       ],
       "sourceName": "Bilt",
@@ -2060,7 +2172,7 @@
       "color": "blue",
       "id": "barclays-arrival-plus-legacy",
       "issuer": "Barclays",
-      "lastVerified": "2026-06-08T00:00:00Z",
+      "lastVerified": "2026-06-16T00:00:00Z",
       "name": "Barclays Arrival Plus (Legacy)",
       "network": "Mastercard",
       "rotatingPeriods": [],
@@ -2068,16 +2180,16 @@
         {
           "category": "travel",
           "multiplier": 2,
-          "note": "Legacy card; no longer open to new applicants"
+          "note": "Legacy 2x earn; absent from current Barclays public card list"
         },
         {
           "category": "everyday",
           "multiplier": 2,
-          "note": "Legacy card; no longer open to new applicants"
+          "note": "Legacy 2x earn; absent from current Barclays public card list"
         }
       ],
       "sourceName": "Barclays",
-      "sourceURL": "https://cards.barclaycardus.com/"
+      "sourceURL": "https://cards.barclaycardus.com/banking/cards/"
     },
     {
       "aliases": [
@@ -2092,12 +2204,13 @@
           "#333842",
           "#F3F4F6"
         ],
-        "symbolName": "car"
+        "symbolName": "car",
+        "imageURL": "https://cards.barclaycardus.com/content/dam/bcuspublic/card-plastic/card-angled/Uber_Visa_Card_2019_Angle_2A_v2.png"
       },
       "color": "graphite",
       "id": "uber-visa-legacy",
       "issuer": "Barclays",
-      "lastVerified": "2026-06-08T00:00:00Z",
+      "lastVerified": "2026-06-16T00:00:00Z",
       "name": "Uber Visa (Legacy)",
       "network": "Visa",
       "rotatingPeriods": [],
@@ -2105,17 +2218,17 @@
         {
           "category": "dining",
           "multiplier": 4,
-          "note": "Legacy card; original rewards structure"
+          "note": "Historical original rewards structure; current Barclays product page is unavailable"
         },
         {
           "category": "travel",
           "multiplier": 3,
-          "note": "Legacy card; original rewards structure"
+          "note": "Historical original rewards structure for airfare and hotels; current Barclays product page is unavailable"
         },
         {
           "category": "online",
           "multiplier": 2,
-          "note": "Legacy card; original rewards structure"
+          "note": "Historical original rewards structure; current Barclays product page is unavailable"
         },
         {
           "category": "everyday",
@@ -2124,8 +2237,980 @@
       ],
       "sourceName": "Barclays",
       "sourceURL": "https://cards.barclaycardus.com/"
+    },
+    {
+      "aliases": [
+        "paypal mastercard",
+        "paypal cashback",
+        "paypal cash back"
+      ],
+      "artwork": {
+        "badge": "PAYPAL",
+        "palette": [
+          "#003087",
+          "#009CDE",
+          "#FFFFFF"
+        ],
+        "symbolName": "wallet.pass",
+        "imageURL": "https://www.paypalobjects.com/marketing/web23/us/en/ppe/cbmc/hero_size-mobile-up_v1.jpg?quality=40&width=300"
+      },
+      "color": "blue",
+      "id": "synchrony-paypal-cashback-mastercard",
+      "issuer": "Synchrony Bank",
+      "lastVerified": "2026-06-17T00:00:00Z",
+      "name": "PayPal Cashback Mastercard",
+      "network": "Mastercard",
+      "rotatingPeriods": [],
+      "rules": [
+        {
+          "category": "online",
+          "multiplier": 3,
+          "note": "Online purchases made through PayPal using the PayPal Cashback Mastercard."
+        },
+        {
+          "category": "everyday",
+          "multiplier": 1.5,
+          "note": "All other eligible purchases everywhere Mastercard is accepted."
+        }
+      ],
+      "sourceName": "PayPal",
+      "sourceURL": "https://www.paypal.com/us/digital-wallet/manage-money/paypal-cashback-mastercard"
+    },
+    {
+      "aliases": [
+        "venmo credit card",
+        "venmo visa",
+        "venmo signature"
+      ],
+      "artwork": {
+        "badge": "VENMO",
+        "palette": [
+          "#008CFF",
+          "#101820",
+          "#FFFFFF"
+        ],
+        "symbolName": "creditcard",
+        "imageURL": "https://www.paypalobjects.com/venmocmsnodeweb/us/credit-card/credit-card-meta.jpg"
+      },
+      "color": "blue",
+      "id": "synchrony-venmo-visa-signature",
+      "issuer": "Synchrony Bank",
+      "lastVerified": "2026-06-17T00:00:00Z",
+      "name": "Venmo Visa Signature Credit Card",
+      "network": "Visa",
+      "rotatingPeriods": [],
+      "rules": [
+        {
+          "category": "rotating",
+          "multiplier": 3,
+          "note": "Automatically applied to the top eligible spend category each statement period; the second eligible category earns 2%."
+        },
+        {
+          "category": "everyday",
+          "multiplier": 1,
+          "note": "All other eligible purchases."
+        }
+      ],
+      "sourceName": "Venmo",
+      "sourceURL": "https://venmo.com/about/creditcard"
+    },
+    {
+      "aliases": [
+        "fidelity visa",
+        "fidelity rewards",
+        "fidelity elan"
+      ],
+      "artwork": {
+        "badge": "FID",
+        "palette": [
+          "#007A3D",
+          "#0F4D2D",
+          "#FFFFFF"
+        ],
+        "symbolName": "leaf",
+        "imageURL": "https://www.fidelity.com/bin-public/060_www_fidelity_com/images/cash-management/cc-hero.png"
+      },
+      "color": "mint",
+      "id": "elan-fidelity-rewards-visa",
+      "issuer": "Elan Financial Services",
+      "lastVerified": "2026-06-17T00:00:00Z",
+      "name": "Fidelity Rewards Visa Signature Card",
+      "network": "Visa",
+      "rotatingPeriods": [],
+      "rules": [
+        {
+          "category": "everyday",
+          "multiplier": 2,
+          "note": "Earns 2 points per dollar; 2% value applies when rewards are deposited into an eligible Fidelity account."
+        }
+      ],
+      "sourceName": "Fidelity",
+      "sourceURL": "https://www.fidelity.com/spend-save/visa-signature-card"
+    },
+    {
+      "aliases": [
+        "sofi unlimited",
+        "sofi 2 percent",
+        "sofi mastercard"
+      ],
+      "artwork": {
+        "badge": "SOFI",
+        "palette": [
+          "#00A6A6",
+          "#12232E",
+          "#FFFFFF"
+        ],
+        "symbolName": "percent",
+        "imageURL": "https://d32ijn7u0aqfv4.cloudfront.net/wp/wp-content/uploads/raw/CC24-2177731-AB_CC-LP-Redesign-for-PQ-Flow_Unlimited-CC_Desktop%402x.png"
+      },
+      "color": "mint",
+      "id": "sofi-unlimited-2-percent",
+      "issuer": "SoFi Bank, N.A.",
+      "lastVerified": "2026-06-16T00:00:00Z",
+      "name": "SoFi Unlimited 2% Credit Card",
+      "network": "Mastercard",
+      "rotatingPeriods": [],
+      "rules": [
+        {
+          "category": "everyday",
+          "multiplier": 2,
+          "note": "Earns 2 rewards points per dollar; point value depends on redemption to eligible SoFi accounts or SoFi Travel."
+        }
+      ],
+      "sourceName": "SoFi",
+      "sourceURL": "https://www.sofi.com/credit-card/unlimited/"
+    },
+    {
+      "aliases": [
+        "sofi everyday cash",
+        "sofi everyday cash rewards",
+        "sofi ecr"
+      ],
+      "artwork": {
+        "badge": "SOFI",
+        "palette": [
+          "#2DD4BF",
+          "#0F172A",
+          "#FFFFFF"
+        ],
+        "symbolName": "fork.knife",
+        "imageURL": "https://d32ijn7u0aqfv4.cloudfront.net/wp/wp-content/uploads/raw/CC24-2177731-AB_CC-LP-Redesign-for-PQ-Flow_ECR-CC_Desktop%402x.png"
+      },
+      "color": "mint",
+      "id": "sofi-everyday-cash-rewards",
+      "issuer": "SoFi Bank, N.A.",
+      "lastVerified": "2026-06-16T00:00:00Z",
+      "name": "SoFi Everyday Cash Rewards Credit Card",
+      "network": "Mastercard",
+      "rotatingPeriods": [],
+      "rules": [
+        {
+          "category": "dining",
+          "multiplier": 3
+        },
+        {
+          "category": "groceries",
+          "multiplier": 2
+        },
+        {
+          "category": "everyday",
+          "multiplier": 1
+        }
+      ],
+      "sourceName": "SoFi",
+      "sourceURL": "https://www.sofi.com/credit-card/everyday-cash/"
+    },
+    {
+      "aliases": [
+        "sofi essential",
+        "sofi travel card",
+        "sofi essential mastercard"
+      ],
+      "artwork": {
+        "badge": "SOFI",
+        "palette": [
+          "#1D4ED8",
+          "#0B1220",
+          "#FFFFFF"
+        ],
+        "symbolName": "airplane",
+        "imageURL": "https://d32ijn7u0aqfv4.cloudfront.net/wp/wp-content/uploads/raw/CC24-2177731-AB_CC-LP-Redesign-for-PQ-Flow_Essential-CC_Desktop%402x.png"
+      },
+      "color": "blue",
+      "id": "sofi-essential",
+      "issuer": "SoFi Bank, N.A.",
+      "lastVerified": "2026-06-16T00:00:00Z",
+      "name": "SoFi Essential Credit Card",
+      "network": "Mastercard",
+      "rotatingPeriods": [],
+      "rules": [
+        {
+          "category": "travelPortal",
+          "multiplier": 3,
+          "note": "SoFi Travel purchases."
+        },
+        {
+          "category": "everyday",
+          "multiplier": 0,
+          "note": "The public SoFi rewards table lists 3x for SoFi Travel and does not list a base earn rate."
+        }
+      ],
+      "sourceName": "SoFi",
+      "sourceURL": "https://www.sofi.com/credit-card/essential/"
+    },
+    {
+      "aliases": [
+        "pnc cash rewards",
+        "pnc 4 3 2 1",
+        "pnc cash rewards visa"
+      ],
+      "artwork": {
+        "badge": "PNC",
+        "palette": [
+          "#F58025",
+          "#1F2937",
+          "#FFFFFF"
+        ],
+        "symbolName": "fuelpump",
+        "imageURL": "https://www.pnc.com/en/personal-banking/banking/credit-cards/_jcr_content/main/pageBody/containergrid_copy_c_283020490/embeddedGrid/containergrid_copy_c_215278159/embeddedGrid/containergrid/embeddedGrid/image.coreimg.png/1778094519173/creditcard-cash-rewards-200-bonus-ribbon.png"
+      },
+      "color": "coral",
+      "id": "pnc-cash-rewards",
+      "issuer": "PNC Bank",
+      "lastVerified": "2026-06-16T00:00:00Z",
+      "name": "PNC Cash Rewards Visa Credit Card",
+      "network": "Visa",
+      "rotatingPeriods": [],
+      "rules": [
+        {
+          "category": "gas",
+          "multiplier": 4,
+          "note": "Bonus categories apply to the first $8,000 in combined annual purchases."
+        },
+        {
+          "category": "dining",
+          "multiplier": 3,
+          "note": "Bonus categories apply to the first $8,000 in combined annual purchases."
+        },
+        {
+          "category": "groceries",
+          "multiplier": 2,
+          "note": "Bonus categories apply to the first $8,000 in combined annual purchases."
+        },
+        {
+          "category": "everyday",
+          "multiplier": 1
+        }
+      ],
+      "sourceName": "PNC",
+      "sourceURL": "https://www.pnc.com/en/personal-banking/banking/credit-cards/pnc-cash-rewards-visa-credit-card.html"
+    },
+    {
+      "aliases": [
+        "pnc cash unlimited",
+        "pnc unlimited",
+        "pnc 2 percent"
+      ],
+      "artwork": {
+        "badge": "PNC",
+        "palette": [
+          "#0F172A",
+          "#F58025",
+          "#FFFFFF"
+        ],
+        "symbolName": "infinity",
+        "imageURL": "https://www.pnc.com/en/personal-banking/banking/credit-cards/_jcr_content/main/pageBody/containergrid_197409_2030261130/embeddedGrid/containergrid_copy/embeddedGrid/containergrid/embeddedGrid/image.coreimg.png/1769797295149/pnc-cash-unlimited-signature.png"
+      },
+      "color": "graphite",
+      "id": "pnc-cash-unlimited",
+      "issuer": "PNC Bank",
+      "lastVerified": "2026-06-16T00:00:00Z",
+      "name": "PNC Cash Unlimited Visa Credit Card",
+      "network": "Visa",
+      "rotatingPeriods": [],
+      "rules": [
+        {
+          "category": "everyday",
+          "multiplier": 2,
+          "note": "Unlimited 2% cash back on purchases."
+        }
+      ],
+      "sourceName": "PNC",
+      "sourceURL": "https://www.pnc.com/en/personal-banking/banking/credit-cards/pnc-cash-unlimited-visa-credit-card.html"
+    },
+    {
+      "aliases": [
+        "td cash",
+        "td cash credit card",
+        "td 3 2 1"
+      ],
+      "artwork": {
+        "badge": "TD",
+        "palette": [
+          "#54B948",
+          "#0B3B2E",
+          "#FFFFFF"
+        ],
+        "symbolName": "slider.horizontal.3",
+        "imageURL": "https://www.td.com/content/dam/tdb/images/personal-banking/td-cash-320x178-63-en.png"
+      },
+      "color": "mint",
+      "id": "td-cash",
+      "issuer": "TD Bank",
+      "lastVerified": "2026-06-16T00:00:00Z",
+      "name": "TD Cash Credit Card",
+      "network": "Visa",
+      "rotatingPeriods": [],
+      "rules": [
+        {
+          "category": "rotating",
+          "multiplier": 3,
+          "note": "Choice category earns 3% and second choice category earns 2%; categories can be changed quarterly."
+        },
+        {
+          "category": "everyday",
+          "multiplier": 1
+        }
+      ],
+      "sourceName": "TD Bank",
+      "sourceURL": "https://www.td.com/us/en/personal-banking/credit-cards/cash-card"
+    },
+    {
+      "aliases": [
+        "td double up",
+        "td doubleup",
+        "td 2 percent"
+      ],
+      "artwork": {
+        "badge": "TD",
+        "palette": [
+          "#173F35",
+          "#54B948",
+          "#FFFFFF"
+        ],
+        "symbolName": "plus.forwardslash.minus",
+        "imageURL": "https://www.td.com/content/dam/tdb/images/personal-banking/td-doubleup-320x178-73-en.png"
+      },
+      "color": "mint",
+      "id": "td-double-up",
+      "issuer": "TD Bank",
+      "lastVerified": "2026-06-16T00:00:00Z",
+      "name": "TD Double Up Credit Card",
+      "network": "Visa",
+      "rotatingPeriods": [],
+      "rules": [
+        {
+          "category": "everyday",
+          "multiplier": 2,
+          "note": "Unlimited 2% cash back with no rotating categories, caps, or limits."
+        }
+      ],
+      "sourceName": "TD Bank",
+      "sourceURL": "https://www.td.com/us/en/personal-banking/credit-cards/double-up"
+    },
+    {
+      "aliases": [
+        "td first class",
+        "td first class visa",
+        "td travel"
+      ],
+      "artwork": {
+        "badge": "TD",
+        "palette": [
+          "#243B53",
+          "#54B948",
+          "#FFFFFF"
+        ],
+        "symbolName": "airplane.departure",
+        "imageURL": "https://www.td.com/content/dam/tdb/images/personal-banking/credit-cards/small/td-firstclass-visa-cc.png"
+      },
+      "color": "blue",
+      "id": "td-first-class",
+      "issuer": "TD Bank",
+      "lastVerified": "2026-06-16T00:00:00Z",
+      "name": "TD First Class Visa Signature Credit Card",
+      "network": "Visa",
+      "rotatingPeriods": [],
+      "rules": [
+        {
+          "category": "travel",
+          "multiplier": 3
+        },
+        {
+          "category": "dining",
+          "multiplier": 3
+        },
+        {
+          "category": "everyday",
+          "multiplier": 1
+        }
+      ],
+      "sourceName": "TD Bank",
+      "sourceURL": "https://www.td.com/us/en/personal-banking/credit-cards/first-class-card"
+    },
+    {
+      "aliases": [
+        "truist enjoy cash",
+        "enjoy cash",
+        "truist cash rewards"
+      ],
+      "artwork": {
+        "badge": "TRUIST",
+        "palette": [
+          "#2E1A47",
+          "#7B3FF2",
+          "#FFFFFF"
+        ],
+        "symbolName": "bolt.car",
+        "imageURL": "https://static.truist.com/content/dam/truist-bank/us/en/card-art/personal/enjoy-cash-platinum.png/jcr:content/renditions/original"
+      },
+      "color": "graphite",
+      "id": "truist-enjoy-cash",
+      "issuer": "Truist",
+      "lastVerified": "2026-06-16T00:00:00Z",
+      "name": "Truist Enjoy Cash Credit Card",
+      "network": "Visa",
+      "rotatingPeriods": [],
+      "rules": [
+        {
+          "category": "gas",
+          "multiplier": 3,
+          "note": "For the 3-2-1 Cash option; gas and EV charging, utilities, and groceries are capped at $1,000 in combined monthly spend."
+        },
+        {
+          "category": "utilities",
+          "multiplier": 2,
+          "note": "For the 3-2-1 Cash option; gas and EV charging, utilities, and groceries are capped at $1,000 in combined monthly spend."
+        },
+        {
+          "category": "groceries",
+          "multiplier": 2,
+          "note": "For the 3-2-1 Cash option; gas and EV charging, utilities, and groceries are capped at $1,000 in combined monthly spend."
+        },
+        {
+          "category": "everyday",
+          "multiplier": 1,
+          "note": "All other eligible purchases under the 3-2-1 Cash option; Truist also offers an alternate flat 1.5% Cash option."
+        }
+      ],
+      "sourceName": "Truist",
+      "sourceURL": "https://www.truist.com/credit-cards"
+    },
+    {
+      "aliases": [
+        "truist enjoy beyond",
+        "enjoy beyond",
+        "truist beyond rewards"
+      ],
+      "artwork": {
+        "badge": "TRUIST",
+        "palette": [
+          "#120A2A",
+          "#7B3FF2",
+          "#D8B4FE"
+        ],
+        "symbolName": "sparkles",
+        "imageURL": "https://static.truist.com/content/dam/truist-bank/us/en/card-art/personal/enjoy-beyond-platinum.png/_jcr_content/renditions/original"
+      },
+      "color": "graphite",
+      "id": "truist-enjoy-beyond",
+      "issuer": "Truist",
+      "lastVerified": "2026-06-16T00:00:00Z",
+      "name": "Truist Enjoy Beyond Credit Card",
+      "network": "Visa",
+      "rotatingPeriods": [],
+      "rules": [
+        {
+          "category": "travel",
+          "multiplier": 3,
+          "note": "Airfare, hotels, and car rentals."
+        },
+        {
+          "category": "dining",
+          "multiplier": 2
+        },
+        {
+          "category": "everyday",
+          "multiplier": 1
+        }
+      ],
+      "sourceName": "Truist",
+      "sourceURL": "https://www.truist.com/credit-cards"
+    },
+    {
+      "aliases": [
+        "truist enjoy travel",
+        "enjoy travel",
+        "truist travel rewards"
+      ],
+      "artwork": {
+        "badge": "TRUIST",
+        "palette": [
+          "#1E1B4B",
+          "#7C3AED",
+          "#FFFFFF"
+        ],
+        "symbolName": "suitcase.rolling",
+        "imageURL": "https://static.truist.com/content/dam/truist-bank/us/en/card-art/personal/enjoy-travel-platinum.png/jcr:content/renditions/original"
+      },
+      "color": "blue",
+      "id": "truist-enjoy-travel",
+      "issuer": "Truist",
+      "lastVerified": "2026-06-16T00:00:00Z",
+      "name": "Truist Enjoy Travel Credit Card",
+      "network": "Visa",
+      "rotatingPeriods": [],
+      "rules": [
+        {
+          "category": "travel",
+          "multiplier": 2,
+          "note": "Airfare, hotels, and car rentals."
+        },
+        {
+          "category": "everyday",
+          "multiplier": 1
+        }
+      ],
+      "sourceName": "Truist",
+      "sourceURL": "https://www.truist.com/credit-cards"
+    },
+    {
+      "aliases": [
+        "navy federal cashrewards",
+        "navyfederal cashrewards",
+        "nfcu cashrewards"
+      ],
+      "artwork": {
+        "badge": "NFCU",
+        "palette": [
+          "#0B3A75",
+          "#20A7DB",
+          "#FFFFFF"
+        ],
+        "symbolName": "dollarsign.circle",
+        "imageURL": "https://dm-assets.navyfederal.org/is/image/nfcu/cashrewards-plus-vs-combined?fmt=png-alpha&wid=480"
+      },
+      "color": "blue",
+      "id": "navy-federal-cashrewards",
+      "issuer": "Navy Federal Credit Union",
+      "lastVerified": "2026-06-17T00:00:00Z",
+      "name": "Navy Federal cashRewards Plus Credit Card",
+      "network": "Visa/Mastercard",
+      "rotatingPeriods": [],
+      "rules": [
+        {
+          "category": "everyday",
+          "multiplier": 2,
+          "note": "cashRewards Plus earns unlimited 2% when the credit limit is $5,000 or more; standard cashRewards earns 1.5% when the credit limit is under $5,000."
+        }
+      ],
+      "sourceName": "Navy Federal Credit Union",
+      "sourceURL": "https://www.navyfederal.org/loans-cards/credit-cards.html"
+    },
+    {
+      "aliases": [
+        "navy federal more rewards",
+        "nfcu more rewards",
+        "more rewards amex"
+      ],
+      "artwork": {
+        "badge": "NFCU",
+        "palette": [
+          "#134E8A",
+          "#F5A623",
+          "#FFFFFF"
+        ],
+        "symbolName": "star.circle",
+        "imageURL": "https://dm-assets.navyfederal.org/is/image/nfcu/amex-no-name-1?fmt=png-alpha&wid=480"
+      },
+      "color": "blue",
+      "id": "navy-federal-more-rewards-amex",
+      "issuer": "Navy Federal Credit Union",
+      "lastVerified": "2026-06-17T00:00:00Z",
+      "name": "Navy Federal More Rewards American Express Card",
+      "network": "Amex",
+      "rotatingPeriods": [],
+      "rules": [
+        {
+          "category": "dining",
+          "multiplier": 3,
+          "note": "Restaurants and food delivery."
+        },
+        {
+          "category": "groceries",
+          "multiplier": 3,
+          "note": "Supermarkets."
+        },
+        {
+          "category": "gas",
+          "multiplier": 3,
+          "note": "Gas and transit."
+        },
+        {
+          "category": "transit",
+          "multiplier": 3,
+          "note": "Gas and transit."
+        },
+        {
+          "category": "everyday",
+          "multiplier": 1
+        }
+      ],
+      "sourceName": "Navy Federal Credit Union",
+      "sourceURL": "https://www.navyfederal.org/loans-cards/credit-cards.html"
+    },
+    {
+      "aliases": [
+        "navy federal flagship",
+        "nfcu flagship",
+        "visa signature flagship rewards"
+      ],
+      "artwork": {
+        "badge": "NFCU",
+        "palette": [
+          "#1E293B",
+          "#CBD5E1",
+          "#FFFFFF"
+        ],
+        "symbolName": "flag",
+        "imageURL": "https://dm-assets.navyfederal.org/is/image/nfcu/flagship-1?fmt=png-alpha&wid=480"
+      },
+      "color": "graphite",
+      "id": "navy-federal-flagship-rewards",
+      "issuer": "Navy Federal Credit Union",
+      "lastVerified": "2026-06-17T00:00:00Z",
+      "name": "Navy Federal Visa Signature Flagship Rewards",
+      "network": "Visa",
+      "rotatingPeriods": [],
+      "rules": [
+        {
+          "category": "travel",
+          "multiplier": 3
+        },
+        {
+          "category": "everyday",
+          "multiplier": 2
+        }
+      ],
+      "sourceName": "Navy Federal Credit Union",
+      "sourceURL": "https://www.navyfederal.org/loans-cards/credit-cards.html"
+    },
+    {
+      "aliases": [
+        "navy federal go rewards",
+        "nfcu go rewards",
+        "go rewards"
+      ],
+      "artwork": {
+        "badge": "NFCU",
+        "palette": [
+          "#23395B",
+          "#1F9A8A",
+          "#FFFFFF"
+        ],
+        "symbolName": "fork.knife.circle",
+        "imageURL": "https://dm-assets.navyfederal.org/is/image/nfcu/gorewards?fmt=png-alpha&wid=480"
+      },
+      "color": "mint",
+      "id": "navy-federal-go-rewards",
+      "issuer": "Navy Federal Credit Union",
+      "lastVerified": "2026-06-17T00:00:00Z",
+      "name": "Navy Federal GO REWARDS Credit Card",
+      "network": "Visa/Mastercard",
+      "rotatingPeriods": [],
+      "rules": [
+        {
+          "category": "dining",
+          "multiplier": 3
+        },
+        {
+          "category": "gas",
+          "multiplier": 2
+        },
+        {
+          "category": "everyday",
+          "multiplier": 1
+        }
+      ],
+      "sourceName": "Navy Federal Credit Union",
+      "sourceURL": "https://www.navyfederal.org/loans-cards/credit-cards.html"
+    },
+    {
+      "aliases": [
+        "penfed power cash",
+        "power cash rewards",
+        "penfed 2 percent"
+      ],
+      "artwork": {
+        "badge": "PENFED",
+        "palette": [
+          "#0B4EA2",
+          "#D9A441",
+          "#FFFFFF"
+        ],
+        "symbolName": "power",
+        "imageURL": "https://www.penfed.org/content/dam/penfed/en/products/credit-cards/cards/power-cash-rewards.webp"
+      },
+      "color": "blue",
+      "id": "penfed-power-cash-rewards",
+      "issuer": "PenFed Credit Union",
+      "lastVerified": "2026-06-16T00:00:00Z",
+      "name": "PenFed Power Cash Rewards Visa Signature Card",
+      "network": "Visa",
+      "rotatingPeriods": [],
+      "rules": [
+        {
+          "category": "everyday",
+          "multiplier": 2,
+          "note": "2% cash back for PenFed Honors Advantage members; 1.5% cash back for all other members."
+        }
+      ],
+      "sourceName": "PenFed Credit Union",
+      "sourceURL": "https://www.penfed.org/credit-cards/power-cash-rewards-visa"
+    },
+    {
+      "aliases": [
+        "penfed platinum",
+        "platinum rewards visa",
+        "penfed gas card"
+      ],
+      "artwork": {
+        "badge": "PENFED",
+        "palette": [
+          "#111827",
+          "#D1A23A",
+          "#FFFFFF"
+        ],
+        "symbolName": "fuelpump.circle",
+        "imageURL": "https://www.penfed.org/content/dam/penfed/en/products/credit-cards/cards/platinum-rewards.webp"
+      },
+      "color": "graphite",
+      "id": "penfed-platinum-rewards",
+      "issuer": "PenFed Credit Union",
+      "lastVerified": "2026-06-16T00:00:00Z",
+      "name": "PenFed Platinum Rewards Visa Signature Card",
+      "network": "Visa",
+      "rotatingPeriods": [],
+      "rules": [
+        {
+          "category": "gas",
+          "multiplier": 5,
+          "note": "Fuel and EV charging."
+        },
+        {
+          "category": "groceries",
+          "multiplier": 3,
+          "note": "Includes supermarkets and most Target and Walmart locations per PenFed's public description."
+        },
+        {
+          "category": "dining",
+          "multiplier": 3
+        },
+        {
+          "category": "streaming",
+          "multiplier": 3,
+          "note": "TV, radio, cable, and streaming services."
+        },
+        {
+          "category": "everyday",
+          "multiplier": 1
+        }
+      ],
+      "sourceName": "PenFed Credit Union",
+      "sourceURL": "https://www.penfed.org/credit-cards/platinum-rewards-visa"
+    },
+    {
+      "aliases": [
+        "penfed pathfinder",
+        "pathfinder rewards visa",
+        "penfed travel card"
+      ],
+      "artwork": {
+        "badge": "PENFED",
+        "palette": [
+          "#1E3A8A",
+          "#38BDF8",
+          "#FFFFFF"
+        ],
+        "symbolName": "suitcase",
+        "imageURL": "https://www.penfed.org/content/dam/penfed/en/products/credit-cards/cards/pathfinder-rewards.webp"
+      },
+      "color": "blue",
+      "id": "penfed-pathfinder-rewards",
+      "issuer": "PenFed Credit Union",
+      "lastVerified": "2026-06-16T00:00:00Z",
+      "name": "PenFed Pathfinder Rewards Visa Signature Card",
+      "network": "Visa",
+      "rotatingPeriods": [],
+      "rules": [
+        {
+          "category": "travel",
+          "multiplier": 4,
+          "note": "4x travel for PenFed Honors Advantage members; 3x travel for all other members."
+        },
+        {
+          "category": "dining",
+          "multiplier": 3,
+          "note": "3x dining for PenFed Honors Advantage members; 2x dining for all other members."
+        },
+        {
+          "category": "everyday",
+          "multiplier": 1.5
+        }
+      ],
+      "sourceName": "PenFed Credit Union",
+      "sourceURL": "https://www.penfed.org/credit-cards/pathfinder-rewards-visa"
+    },
+    {
+      "aliases": [
+        "alliant visa signature",
+        "alliant cashback",
+        "alliant cash back"
+      ],
+      "artwork": {
+        "badge": "ALLIANT",
+        "palette": [
+          "#005EB8",
+          "#00A3E0",
+          "#FFFFFF"
+        ],
+        "symbolName": "building.columns"
+      },
+      "color": "blue",
+      "id": "alliant-cashback-visa-signature",
+      "issuer": "Alliant Credit Union",
+      "lastVerified": "2026-06-17T00:00:00Z",
+      "name": "Alliant Cashback Visa Signature Credit Card",
+      "network": "Visa",
+      "rotatingPeriods": [],
+      "rules": [
+        {
+          "category": "everyday",
+          "multiplier": 1.5,
+          "note": "Unlimited 1.5% cash back on every purchase."
+        }
+      ],
+      "sourceName": "Alliant Credit Union",
+      "sourceURL": "https://www.alliantcreditunion.org/credit-cards/visa-signature-card"
+    },
+    {
+      "aliases": [
+        "fnbo evergreen",
+        "evergreen card",
+        "first national bank of omaha evergreen"
+      ],
+      "artwork": {
+        "badge": "FNBO",
+        "palette": [
+          "#0F5132",
+          "#7FB069",
+          "#FFFFFF"
+        ],
+        "symbolName": "tree",
+        "imageURL": "https://s7d1.scene7.com/is/image/fnnistage/evergreen-1?ts=1776823030190&$TransparentPNG$&wid=400&dpr=off"
+      },
+      "color": "mint",
+      "id": "fnbo-evergreen",
+      "issuer": "First National Bank of Omaha",
+      "lastVerified": "2026-06-16T00:00:00Z",
+      "name": "Evergreen Credit Card",
+      "network": "Visa",
+      "rotatingPeriods": [],
+      "rules": [
+        {
+          "category": "everyday",
+          "multiplier": 2,
+          "note": "Unlimited 2% cash back on every purchase."
+        }
+      ],
+      "sourceName": "FNBO",
+      "sourceURL": "https://www.fnbo.com/personal-banking/credit-cards/evergreen"
+    },
+    {
+      "aliases": [
+        "citizens summit",
+        "summit world mastercard",
+        "citizens rewards mastercard"
+      ],
+      "artwork": {
+        "badge": "CITIZENS",
+        "palette": [
+          "#00584C",
+          "#80BC00",
+          "#FFFFFF"
+        ],
+        "symbolName": "mountain.2",
+        "imageURL": "https://www.citizensbank.com/dam/d7dfd24d-d92a-437d-b2d7-b42000fb1635/summit-overview-money-card-image-feature-grid-r.png"
+      },
+      "color": "mint",
+      "id": "citizens-summit",
+      "issuer": "Citizens Bank",
+      "lastVerified": "2026-06-16T00:00:00Z",
+      "name": "Citizens Summit World Mastercard",
+      "network": "Mastercard",
+      "rotatingPeriods": [],
+      "rules": [
+        {
+          "category": "dining",
+          "multiplier": 3
+        },
+        {
+          "category": "groceries",
+          "multiplier": 3
+        },
+        {
+          "category": "everyday",
+          "multiplier": 1.5
+        }
+      ],
+      "sourceName": "Citizens Bank",
+      "sourceURL": "https://www.citizensbank.com/credit-cards/summit.aspx"
+    },
+    {
+      "aliases": [
+        "citizens summit reserve",
+        "summit reserve world elite mastercard",
+        "citizens premium mastercard"
+      ],
+      "artwork": {
+        "badge": "CITIZENS",
+        "palette": [
+          "#111827",
+          "#00584C",
+          "#B7A16A"
+        ],
+        "symbolName": "mountain.2.fill",
+        "imageURL": "https://www.citizensbank.com/dam/403cf6f9-f10f-46e1-8d6d-b42000fb13d7/sr-overview-card-image-feature-single-r.png"
+      },
+      "color": "graphite",
+      "id": "citizens-summit-reserve",
+      "issuer": "Citizens Bank",
+      "lastVerified": "2026-06-16T00:00:00Z",
+      "name": "Citizens Summit Reserve World Elite Mastercard",
+      "network": "Mastercard",
+      "rotatingPeriods": [],
+      "rules": [
+        {
+          "category": "dining",
+          "multiplier": 3
+        },
+        {
+          "category": "groceries",
+          "multiplier": 3
+        },
+        {
+          "category": "entertainment",
+          "multiplier": 3
+        },
+        {
+          "category": "everyday",
+          "multiplier": 1.5
+        }
+      ],
+      "sourceName": "Citizens Bank",
+      "sourceURL": "https://www.citizensbank.com/credit-cards/summit-reserve.aspx"
     }
   ],
-  "generatedAt": "2026-06-16T18:09:26.901Z",
-  "version": "2026.06.16-source-refresh"
+  "generatedAt": "2026-06-17T16:46:58.489Z",
+  "version": "2026.06.17-source-audit"
 }
