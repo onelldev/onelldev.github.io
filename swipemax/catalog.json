@@ -2118,7 +2118,7 @@
       "color": "graphite",
       "id": "us-bank-altitude-reserve-legacy",
       "issuer": "U.S. Bank",
-      "lastVerified": "2026-06-08T00:00:00Z",
+      "lastVerified": "2026-07-01T00:00:00Z",
       "name": "U.S. Bank Altitude Reserve (Legacy)",
       "network": "Visa",
       "rotatingPeriods": [],
@@ -2340,7 +2340,7 @@
       "color": "blue",
       "id": "synchrony-venmo-visa-signature",
       "issuer": "Synchrony Bank",
-      "lastVerified": "2026-06-17T00:00:00Z",
+      "lastVerified": "2026-07-01T00:00:00Z",
       "name": "Venmo Visa Signature Credit Card",
       "network": "Visa",
       "rotatingPeriods": [],
@@ -3270,6 +3270,6 @@
       "sourceURL": "https://www.citizensbank.com/credit-cards/summit-reserve.aspx"
     }
   ],
-  "generatedAt": "2026-07-01T15:29:15.375Z",
+  "generatedAt": "2026-07-01T15:36:04.537Z",
   "version": "2026.07.01-one-card-audit"
 }
