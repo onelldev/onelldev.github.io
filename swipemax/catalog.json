@@ -1367,6 +1367,50 @@
     },
     {
       "aliases": [
+        "citi thankyou preferred",
+        "thankyou preferred",
+        "thank you preferred",
+        "citi thank you preferred",
+        "thankyou preferred card"
+      ],
+      "artwork": {
+        "badge": "THANKYOU",
+        "palette": [
+          "#0B3C78",
+          "#1A73B7",
+          "#E4F2FF"
+        ],
+        "symbolName": "giftcard"
+      },
+      "color": "blue",
+      "id": "citi-thankyou-preferred-legacy",
+      "issuer": "Citi",
+      "lastVerified": "2026-07-02T00:00:00Z",
+      "name": "Citi ThankYou Preferred (Legacy)",
+      "network": "Mastercard",
+      "rotatingPeriods": [],
+      "rules": [
+        {
+          "category": "dining",
+          "multiplier": 2,
+          "note": "Legacy card; dining and restaurant purchases earn 2X ThankYou Points"
+        },
+        {
+          "category": "entertainment",
+          "multiplier": 2,
+          "note": "Legacy card; entertainment purchases earn 2X ThankYou Points"
+        },
+        {
+          "category": "everyday",
+          "multiplier": 1,
+          "note": "Legacy card; all other purchases earn 1X ThankYou Point"
+        }
+      ],
+      "sourceName": "US Credit Card Guide",
+      "sourceURL": "https://www.uscreditcardguide.com/citi-thankyou-preferred/"
+    },
+    {
+      "aliases": [
         "citi prestige",
         "prestige",
         "legacy citi prestige"
@@ -3270,6 +3314,6 @@
       "sourceURL": "https://www.citizensbank.com/credit-cards/summit-reserve.aspx"
     }
   ],
-  "generatedAt": "2026-07-01T15:36:04.537Z",
+  "generatedAt": "2026-07-02T19:56:14.086Z",
   "version": "2026.07.01-one-card-audit"
 }
