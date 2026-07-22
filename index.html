@@ -33,7 +33,7 @@
 <body>
     <div class="card">
         <h1>TallyTV Privacy Policy</h1>
-        <p class="updated"><strong>Last updated: July 10, 2026</strong></p>
+        <p class="updated"><strong>Last updated: July 21, 2026</strong></p>
 
         <h2>1. Overview</h2>
         <p>TallyTV is a media tracking app provided by onelldev. TallyTV does not require a separate TallyTV account, and onelldev does not operate a TallyTV account backend that receives your media library, watch history, or sync credentials. The app communicates directly with services you choose to connect and with the advertising and purchase providers described below.</p>
@@ -41,7 +41,7 @@
         <h2>2. Data Stored on Your Device</h2>
         <ul>
             <li><strong>Library data:</strong> Watchlists, watched history, episode progress, media details, sync history, app settings, and reward counters are stored locally.</li>
-            <li><strong>Connection credentials:</strong> SIMKL and Trakt access tokens and the Yamtrack password are stored in the Apple Keychain. The Yamtrack server address and username are stored in app settings.</li>
+            <li><strong>Connection credentials:</strong> SIMKL and Trakt access tokens and the Yamtrack password are stored using platform-protected storage: Apple Keychain on iOS and Android Keystore-backed encrypted preferences on Android. The Yamtrack server address and username are stored in app settings.</li>
             <li><strong>Purchase status:</strong> TallyTV stores and reads entitlement status needed to provide purchased features.</li>
         </ul>
 
@@ -55,17 +55,17 @@
         <p>Data already synced to a connected service is governed by that service and is not deleted when you remove local TallyTV data.</p>
 
         <h2>4. Advertising and Consent</h2>
-        <p>The free version uses Google AdMob for banner ads and optional rewarded ads. Google and its partners may process device identifiers, IP address, ad interactions, diagnostics, and consent choices. The advertising identifier is available only when permitted by your device settings and Apple's tracking authorization.</p>
+        <p>The free version uses Google AdMob for banner ads and optional rewarded ads. Google and its partners may process device identifiers, IP address, ad interactions, diagnostics, and consent choices. The advertising identifier is available only when permitted by your device and platform privacy settings.</p>
         <p>TallyTV uses Google's User Messaging Platform to request and store advertising consent where required. When available, you can review advertising choices under <strong>Settings &gt; Privacy Choices</strong>. Rewarded ads are optional and are used only when you choose to receive a temporary ad-free period or an extra manual sync.</p>
 
         <h2>5. Purchases</h2>
-        <p>Apple processes subscriptions and one-time purchases. TallyTV reads signed transaction and entitlement information, including the product purchased and whether it is active, expired, or revoked. onelldev does not receive your payment-card details. Apple and App Store Connect may provide transaction and sales reporting under Apple's policies.</p>
+        <p>Apple processes purchases made in the iOS app through the App Store, and Google processes purchases made in the Android app through Google Play. TallyTV reads transaction and entitlement information needed to determine the product purchased and whether it is active, expired, canceled, pending, or revoked. onelldev does not receive your payment-card details. Apple, Google, App Store Connect, and Google Play Console may provide transaction and sales reporting under their respective policies.</p>
 
         <h2>6. Support Communications</h2>
         <p>TallyTV does not create a developer-held user profile. If you contact support, onelldev receives your email address and the information you include. Support messages are used to respond to you, troubleshoot issues, and maintain reasonable support records.</p>
 
         <h2>7. Sharing and Third-Party Policies</h2>
-        <p>onelldev does not sell your personal information. Data is shared only as needed with services you choose to use, with Google for advertising, with Apple for purchases, or when required for legal, fraud-prevention, or security purposes.</p>
+        <p>onelldev does not sell your personal information. Data is shared only as needed with services you choose to use, with Google for advertising and Android purchases, with Apple for iOS purchases, or when required for legal, fraud-prevention, or security purposes.</p>
         <ul>
             <li><a href="https://policies.google.com/privacy">Google Privacy Policy</a></li>
             <li><a href="https://www.apple.com/legal/privacy/">Apple Privacy Policy</a></li>
@@ -78,13 +78,13 @@
         <h2>8. Retention and Deletion</h2>
         <ul>
             <li>Local library data remains on your device until you delete it. <strong>Reset All Data</strong> removes the local library, episode progress, sync history, and cache, but it does not delete data already synced to another service.</li>
-            <li>Disconnect SIMKL, Trakt, or Yamtrack in TallyTV to remove that service's locally stored connection credentials. For certainty, disconnect services before uninstalling because Keychain items can persist depending on Apple device and restore behavior.</li>
+            <li>Disconnect SIMKL, Trakt, or Yamtrack in TallyTV to remove that service's locally stored connection credentials. For certainty, disconnect services before uninstalling because secure-storage and device-backup behavior can vary by platform and settings.</li>
             <li>To delete data held by SIMKL, Trakt, Yamtrack, TMDB, Google, or Apple, use that provider's controls or contact its operator. Their retention rules apply independently.</li>
             <li>You may ask onelldev to delete a support conversation, subject to legal and security recordkeeping requirements.</li>
         </ul>
 
         <h2>9. Security</h2>
-        <p>TallyTV uses the Apple Keychain for sync secrets and HTTPS for SIMKL, Trakt, TMDB, Google, and Apple communications. Yamtrack security depends on the server address you configure. No method of storage or transmission is completely secure.</p>
+        <p>TallyTV uses Apple Keychain on iOS and Android Keystore-backed encrypted preferences on Android for sync secrets. It uses HTTPS for SIMKL, Trakt, TMDB, Google, and Apple communications. Yamtrack security depends on the server address you configure. No method of storage or transmission is completely secure.</p>
 
         <h2>10. Policy Changes</h2>
         <p>This policy may be updated as TallyTV changes. The latest version and effective date will remain available on this page.</p>
