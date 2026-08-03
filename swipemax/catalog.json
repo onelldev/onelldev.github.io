@@ -3326,7 +3326,7 @@
           "#FFF3CB"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-alaver-visa-clasica.jpg?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-alaver-visa-clasica.jpg?v=2026.08.03-182121-755"
       },
       "color": "gold",
       "id": "do-alaver-visa-clasica",
@@ -3358,7 +3358,7 @@
           "#FFF3CB"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-alaver-visa-gold.jpg?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-alaver-visa-gold.jpg?v=2026.08.03-182121-755"
       },
       "color": "gold",
       "id": "do-alaver-visa-gold",
@@ -3390,7 +3390,7 @@
           "#FFF3CB"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-alaver-visa-platinum.jpg?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-alaver-visa-platinum.jpg?v=2026.08.03-182121-755"
       },
       "color": "gold",
       "id": "do-alaver-visa-platinum",
@@ -3422,7 +3422,7 @@
           "#DFEFFF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-abonap-visa-clasica.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-abonap-visa-clasica.png?v=2026.08.03-182121-755"
       },
       "color": "blue",
       "id": "do-abonap-visa-clasica",
@@ -3449,7 +3449,7 @@
         }
       ],
       "sourceName": "ABONAP",
-      "sourceURL": "https://abonap.com.do/Servicios/Tarjetas_de_Credito_ABONAP"
+      "sourceURL": "https://abonap.com.do/"
     },
     {
       "aliases": [
@@ -3464,7 +3464,7 @@
           "#DFEFFF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-abonap-visa-gold.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-abonap-visa-gold.png?v=2026.08.03-182121-755"
       },
       "color": "blue",
       "id": "do-abonap-visa-gold",
@@ -3491,7 +3491,7 @@
         }
       ],
       "sourceName": "ABONAP",
-      "sourceURL": "https://abonap.com.do/Servicios/Tarjetas_de_Credito_ABONAP"
+      "sourceURL": "https://abonap.com.do/"
     },
     {
       "aliases": [
@@ -3506,7 +3506,7 @@
           "#DFEFFF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-abonap-visa-platinum.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-abonap-visa-platinum.png?v=2026.08.03-182121-755"
       },
       "color": "blue",
       "id": "do-abonap-visa-platinum",
@@ -3538,7 +3538,7 @@
         }
       ],
       "sourceName": "ABONAP",
-      "sourceURL": "https://abonap.com.do/Servicios/Tarjetas_de_Credito_ABONAP"
+      "sourceURL": "https://abonap.com.do/"
     },
     {
       "aliases": [
@@ -3569,7 +3569,7 @@
         }
       ],
       "sourceName": "ACAP",
-      "sourceURL": "https://www.acap.com.do/tarjetas-de-credito/programa-lealtad-de-pasos/"
+      "sourceURL": "https://www.acap.com.do/tarjetas-de-credito/visa-clasica/"
     },
     {
       "aliases": [
@@ -3636,7 +3636,7 @@
         }
       ],
       "sourceName": "ACAP",
-      "sourceURL": "https://www.acap.com.do/tarjetas-de-credito/programa-lealtad-de-pasos/"
+      "sourceURL": "https://www.acap.com.do/tarjetas-de-credito/visa-gold/"
     },
     {
       "aliases": [
@@ -3667,7 +3667,7 @@
         }
       ],
       "sourceName": "ACAP",
-      "sourceURL": "https://www.acap.com.do/tarjetas-de-credito/programa-lealtad-de-pasos/"
+      "sourceURL": "https://www.acap.com.do/tarjetas-de-credito/visa-infinite-acap/"
     },
     {
       "aliases": [
@@ -3698,7 +3698,7 @@
         }
       ],
       "sourceName": "ACAP",
-      "sourceURL": "https://www.acap.com.do/tarjetas-de-credito/programa-lealtad-de-pasos/"
+      "sourceURL": "https://www.acap.com.do/tarjetas-de-credito/visa-platinum/"
     },
     {
       "aliases": [
@@ -3713,7 +3713,7 @@
           "#E4F7FF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-adap-porvenir.jpg?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-adap-porvenir.jpg?v=2026.08.03-182121-755"
       },
       "color": "blue",
       "id": "do-adap-porvenir",
@@ -3760,7 +3760,7 @@
           "#E4F7FF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-adap-visa-clasica.jpg?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-adap-visa-clasica.jpg?v=2026.08.03-182121-755"
       },
       "color": "blue",
       "id": "do-adap-visa-clasica",
@@ -3792,7 +3792,7 @@
           "#E4F7FF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-adap-visa-gold.jpg?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-adap-visa-gold.jpg?v=2026.08.03-182121-755"
       },
       "color": "blue",
       "id": "do-adap-visa-gold",
@@ -3824,7 +3824,7 @@
           "#E4F7FF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-adap-visa-platinum.jpg?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-adap-visa-platinum.jpg?v=2026.08.03-182121-755"
       },
       "color": "blue",
       "id": "do-adap-visa-platinum",
@@ -3856,7 +3856,7 @@
           "#DDF6FF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-nacional-confia-en-ti.jpg?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-nacional-confia-en-ti.jpg?v=2026.08.03-182121-755"
       },
       "color": "blue",
       "id": "do-nacional-confia-en-ti",
@@ -3888,7 +3888,7 @@
           "#DDF6FF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-nacional-confiamas.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-nacional-confiamas.png?v=2026.08.03-182121-755"
       },
       "color": "blue",
       "id": "do-nacional-confiamas",
@@ -3935,7 +3935,7 @@
           "#DDF6FF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-nacional-unase.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-nacional-unase.png?v=2026.08.03-182121-755"
       },
       "color": "blue",
       "id": "do-nacional-unase",
@@ -3972,7 +3972,7 @@
           "#DDF6FF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-nacional-union.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-nacional-union.png?v=2026.08.03-182121-755"
       },
       "color": "blue",
       "id": "do-nacional-union",
@@ -4009,7 +4009,7 @@
           "#DDF6FF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-nacional-visa-clasica.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-nacional-visa-clasica.png?v=2026.08.03-182121-755"
       },
       "color": "blue",
       "id": "do-nacional-visa-clasica",
@@ -4041,7 +4041,7 @@
           "#DDF6FF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-nacional-visa-gold.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-nacional-visa-gold.png?v=2026.08.03-182121-755"
       },
       "color": "blue",
       "id": "do-nacional-visa-gold",
@@ -4073,7 +4073,7 @@
           "#DDF6FF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-nacional-visa-platinum.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-nacional-visa-platinum.png?v=2026.08.03-182121-755"
       },
       "color": "blue",
       "id": "do-nacional-visa-platinum",
@@ -4151,7 +4151,7 @@
           "#FFE4DA"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-apap-familiar.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-apap-familiar.png?v=2026.08.03-182121-755"
       },
       "color": "coral",
       "id": "do-apap-familiar",
@@ -4203,7 +4203,7 @@
           "#FFE4DA"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-apap-mastercard-gold.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-apap-mastercard-gold.png?v=2026.08.03-182121-755"
       },
       "color": "coral",
       "id": "do-apap-mastercard-gold",
@@ -4235,7 +4235,7 @@
           "#FFE4DA"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-apap-mastercard-standard.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-apap-mastercard-standard.png?v=2026.08.03-182121-755"
       },
       "color": "coral",
       "id": "do-apap-mastercard-standard",
@@ -4267,7 +4267,7 @@
           "#FFE4DA"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-apap-premium-gold.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-apap-premium-gold.png?v=2026.08.03-182121-755"
       },
       "color": "coral",
       "id": "do-apap-premium-gold",
@@ -4319,7 +4319,7 @@
           "#FFE4DA"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-apap-visa-clasica.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-apap-visa-clasica.png?v=2026.08.03-182121-755"
       },
       "color": "coral",
       "id": "do-apap-visa-clasica",
@@ -4351,7 +4351,7 @@
           "#FFE4DA"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-apap-visa-gold.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-apap-visa-gold.png?v=2026.08.03-182121-755"
       },
       "color": "coral",
       "id": "do-apap-visa-gold",
@@ -4383,7 +4383,7 @@
           "#FFE4DA"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-apap-visa-infinite.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-apap-visa-infinite.png?v=2026.08.03-182121-755"
       },
       "color": "coral",
       "id": "do-apap-visa-infinite",
@@ -4446,7 +4446,7 @@
           "#FFE4DA"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-apap-visa-joven.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-apap-visa-joven.png?v=2026.08.03-182121-755"
       },
       "color": "coral",
       "id": "do-apap-visa-joven",
@@ -4493,7 +4493,7 @@
           "#FFE4DA"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-apap-visa-platinum.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-apap-visa-platinum.png?v=2026.08.03-182121-755"
       },
       "color": "coral",
       "id": "do-apap-visa-platinum",
@@ -4525,7 +4525,7 @@
           "#FFE4DA"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-apap-visa-sirena.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-apap-visa-sirena.png?v=2026.08.03-182121-755"
       },
       "color": "coral",
       "id": "do-apap-visa-sirena",
@@ -4538,12 +4538,12 @@
         {
           "category": "groceries",
           "multiplier": 7,
-          "note": "7% cash back at participating Sirena, Sirena Market, and Super Pola stores; issuer cap and exclusions apply."
+          "note": "7% cash back from the card at Sirena, Sirena Market, and Super Pola; scanning a Siremás membership earns another 1% in merchant points for 8% combined. Issuer caps and exclusions apply."
         },
         {
           "category": "everyday",
           "multiplier": 0,
-          "note": "Earns Siremás points at participating Grupo Ramos merchants; no generic base rate is published."
+          "note": "No generic base reward is published outside participating Grupo Ramos merchants."
         }
       ],
       "sourceName": "APAP",
@@ -4562,7 +4562,7 @@
           "#FFE7DC"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-ademi-visa-ole.webp?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-ademi-visa-ole.webp?v=2026.08.03-182121-755"
       },
       "color": "coral",
       "id": "do-ademi-visa-ole",
@@ -4604,7 +4604,7 @@
           "#FFE7DC"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-ademi-visa-clasica-internacional.webp?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-ademi-visa-clasica-internacional.webp?v=2026.08.03-182121-755"
       },
       "color": "coral",
       "id": "do-ademi-visa-clasica-internacional",
@@ -4636,7 +4636,7 @@
           "#FFE7DC"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-ademi-visa-clasica-multimoneda.webp?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-ademi-visa-clasica-multimoneda.webp?v=2026.08.03-182121-755"
       },
       "color": "coral",
       "id": "do-ademi-visa-clasica-multimoneda",
@@ -4668,7 +4668,7 @@
           "#FFE7DC"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-ademi-visa-flexible.webp?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-ademi-visa-flexible.webp?v=2026.08.03-182121-755"
       },
       "color": "coral",
       "id": "do-ademi-visa-flexible",
@@ -4700,7 +4700,7 @@
           "#FFE7DC"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-ademi-visa-gold-internacional.jpg?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-ademi-visa-gold-internacional.jpg?v=2026.08.03-182121-755"
       },
       "color": "coral",
       "id": "do-ademi-visa-gold-internacional",
@@ -4763,7 +4763,7 @@
           "#E1F0FF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-bdi-visa-anthonys.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-bdi-visa-anthonys.png?v=2026.08.03-182121-755"
       },
       "color": "blue",
       "id": "do-bdi-visa-anthonys",
@@ -4780,7 +4780,7 @@
         }
       ],
       "sourceName": "Banco BDI",
-      "sourceURL": "https://www.bdi.com.do/tarjetas-de-credito/visa-bdi-anthonys/"
+      "sourceURL": "https://www.bdi.com.do/tarjetas-de-credito/tarjeta-de-credito-visa-bdi-anthonys/"
     },
     {
       "aliases": [
@@ -4795,7 +4795,7 @@
           "#E1F0FF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-bdi-visa-sdcc.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-bdi-visa-sdcc.png?v=2026.08.03-182121-755"
       },
       "color": "blue",
       "id": "do-bdi-visa-sdcc",
@@ -4807,12 +4807,12 @@
       "rules": [
         {
           "category": "everyday",
-          "multiplier": 0,
-          "note": "Named-club benefits and tier-specific Soles BDI apply, but the issuer does not publish one stable generic base rate for the product family."
+          "multiplier": 1,
+          "note": "Soles BDI accrue by tier: Gold earns 2 per RD$300 or US$8, while Signature earns 1 per RD$80 or US$2. Each Sol = RD$1. Named-club rebates and day-specific promotions are not modeled as generic categories."
         }
       ],
       "sourceName": "Banco BDI",
-      "sourceURL": "https://www.bdi.com.do/tarjetas-de-credito/"
+      "sourceURL": "https://www.bdi.com.do/tarjetas-de-credito/tarjeta-de-credito-visa-bdi-santo-domingo-country-club/"
     },
     {
       "aliases": [
@@ -4827,7 +4827,7 @@
           "#E1F0FF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-bdi-visa-clasica.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-bdi-visa-clasica.png?v=2026.08.03-182121-755"
       },
       "color": "blue",
       "id": "do-bdi-visa-clasica",
@@ -4859,7 +4859,7 @@
           "#E1F0FF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-bdi-visa-gold.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-bdi-visa-gold.png?v=2026.08.03-182121-755"
       },
       "color": "blue",
       "id": "do-bdi-visa-gold",
@@ -4891,7 +4891,7 @@
           "#E1F0FF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-bdi-visa-platinum.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-bdi-visa-platinum.png?v=2026.08.03-182121-755"
       },
       "color": "blue",
       "id": "do-bdi-visa-platinum",
@@ -4923,7 +4923,7 @@
           "#E1F0FF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-bdi-visa-signature.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-bdi-visa-signature.png?v=2026.08.03-182121-755"
       },
       "color": "blue",
       "id": "do-bdi-visa-signature",
@@ -4940,7 +4940,7 @@
         }
       ],
       "sourceName": "Banco BDI",
-      "sourceURL": "https://www.bdi.com.do/tarjetas-de-credito/"
+      "sourceURL": "https://www.bdi.com.do/tarjetas-de-credito/tarjeta-de-credito-visa-signature-bdi/"
     },
     {
       "aliases": [
@@ -4955,7 +4955,7 @@
           "#D7F7E9"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-bhd-mastercard-black.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-bhd-mastercard-black.png?v=2026.08.03-182121-755"
       },
       "color": "mint",
       "id": "do-bhd-mastercard-black",
@@ -5018,7 +5018,7 @@
           "#D7F7E9"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-bhd-mastercard-gold.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-bhd-mastercard-gold.png?v=2026.08.03-182121-755"
       },
       "color": "mint",
       "id": "do-bhd-mastercard-gold",
@@ -5050,7 +5050,7 @@
           "#D7F7E9"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-bhd-mastercard-local.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-bhd-mastercard-local.png?v=2026.08.03-182121-755"
       },
       "color": "mint",
       "id": "do-bhd-mastercard-local",
@@ -5082,7 +5082,7 @@
           "#D7F7E9"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-bhd-mastercard-mlb.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-bhd-mastercard-mlb.png?v=2026.08.03-182121-755"
       },
       "color": "mint",
       "id": "do-bhd-mastercard-mlb",
@@ -5114,7 +5114,7 @@
           "#D7F7E9"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-bhd-mastercard-mujer-black.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-bhd-mastercard-mujer-black.png?v=2026.08.03-182121-755"
       },
       "color": "mint",
       "id": "do-bhd-mastercard-mujer-black",
@@ -5151,7 +5151,7 @@
           "#D7F7E9"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-bhd-mastercard-mujer-red.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-bhd-mastercard-mujer-red.png?v=2026.08.03-182121-755"
       },
       "color": "mint",
       "id": "do-bhd-mastercard-mujer-red",
@@ -5183,7 +5183,7 @@
           "#D7F7E9"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-bhd-mastercard-mujer-white.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-bhd-mastercard-mujer-white.png?v=2026.08.03-182121-755"
       },
       "color": "mint",
       "id": "do-bhd-mastercard-mujer-white",
@@ -5215,7 +5215,7 @@
           "#D7F7E9"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-bhd-mastercard-platinum.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-bhd-mastercard-platinum.png?v=2026.08.03-182121-755"
       },
       "color": "mint",
       "id": "do-bhd-mastercard-platinum",
@@ -5247,7 +5247,7 @@
           "#D7F7E9"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-bhd-mastercard-standard.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-bhd-mastercard-standard.png?v=2026.08.03-182121-755"
       },
       "color": "mint",
       "id": "do-bhd-mastercard-standard",
@@ -5279,7 +5279,7 @@
           "#D7F7E9"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-bhd-visa-clasica.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-bhd-visa-clasica.png?v=2026.08.03-182121-755"
       },
       "color": "mint",
       "id": "do-bhd-visa-clasica",
@@ -5311,7 +5311,7 @@
           "#D7F7E9"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-bhd-visa-gold.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-bhd-visa-gold.png?v=2026.08.03-182121-755"
       },
       "color": "mint",
       "id": "do-bhd-visa-gold",
@@ -5343,7 +5343,7 @@
           "#D7F7E9"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-bhd-visa-infinite.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-bhd-visa-infinite.png?v=2026.08.03-182121-755"
       },
       "color": "mint",
       "id": "do-bhd-visa-infinite",
@@ -5411,7 +5411,7 @@
           "#D7F7E9"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-bhd-visa-lifemiles.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-bhd-visa-lifemiles.png?v=2026.08.03-182121-755"
       },
       "color": "mint",
       "id": "do-bhd-visa-lifemiles",
@@ -5443,7 +5443,7 @@
           "#D7F7E9"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-bhd-visa-mi-pais.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-bhd-visa-mi-pais.png?v=2026.08.03-182121-755"
       },
       "color": "mint",
       "id": "do-bhd-visa-mi-pais",
@@ -5516,7 +5516,7 @@
           "#D7F7E9"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-bhd-visa-now.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-bhd-visa-now.png?v=2026.08.03-182121-755"
       },
       "color": "mint",
       "id": "do-bhd-visa-now",
@@ -5548,7 +5548,7 @@
           "#D7F7E9"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-bhd-visa-platinum.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-bhd-visa-platinum.png?v=2026.08.03-182121-755"
       },
       "color": "mint",
       "id": "do-bhd-visa-platinum",
@@ -5580,7 +5580,7 @@
           "#D7F7E9"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-bhd-visa-premia.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-bhd-visa-premia.png?v=2026.08.03-182121-755"
       },
       "color": "mint",
       "id": "do-bhd-visa-premia",
@@ -5627,7 +5627,7 @@
           "#FFE3D8"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-caribe-e-card.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-caribe-e-card.png?v=2026.08.03-182121-755"
       },
       "color": "coral",
       "id": "do-caribe-e-card",
@@ -5638,9 +5638,14 @@
       "rotatingPeriods": [],
       "rules": [
         {
-          "category": "everyday",
+          "category": "online",
           "multiplier": 1.25,
-          "note": "RD$1.25 in Pesos Caribe per RD$100 paid toward the card balance; this is payment-based, not purchase-based."
+          "note": "RD$1.25 in Pesos Caribe per RD$100 paid toward the card balance. This is payment-based rather than purchase-based, and the E-Card is restricted to online purchases."
+        },
+        {
+          "category": "everyday",
+          "multiplier": 0,
+          "note": "Online-only card; no generic reward applies to ineligible in-person merchant categories."
         }
       ],
       "sourceName": "Banco Caribe",
@@ -5659,7 +5664,7 @@
           "#FFE3D8"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-caribe-insignia.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-caribe-insignia.png?v=2026.08.03-182121-755"
       },
       "color": "coral",
       "id": "do-caribe-insignia",
@@ -5673,6 +5678,11 @@
           "category": "dining",
           "multiplier": 10,
           "note": "10% cash back at eligible restaurants, fast-food merchants, and delivery services; issuer cap and exclusions apply."
+        },
+        {
+          "category": "entertainment",
+          "multiplier": 10,
+          "note": "10% cash back on eligible electronic ticketing purchases; beauty and wellness merchants also earn 10% but are not catalog categories."
         },
         {
           "category": "everyday",
@@ -5696,7 +5706,7 @@
           "#FFE3D8"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-caribe-unica-gasolina.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-caribe-unica-gasolina.png?v=2026.08.03-182121-755"
       },
       "color": "coral",
       "id": "do-caribe-unica-gasolina",
@@ -5707,9 +5717,14 @@
       "rotatingPeriods": [],
       "rules": [
         {
-          "category": "everyday",
+          "category": "gas",
           "multiplier": 1.25,
-          "note": "RD$1.25 in Pesos Caribe per RD$100 paid toward the card balance; this is payment-based, not purchase-based."
+          "note": "RD$1.25 in Pesos Caribe per RD$100 paid toward the card balance. This is payment-based rather than purchase-based, and Única Gasolina is restricted to fuel purchases."
+        },
+        {
+          "category": "everyday",
+          "multiplier": 0,
+          "note": "Fuel-only card; no generic reward applies outside eligible gas purchases."
         }
       ],
       "sourceName": "Banco Caribe",
@@ -5728,7 +5743,7 @@
           "#FFE3D8"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-caribe-visa-clasica-internacional.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-caribe-visa-clasica-internacional.png?v=2026.08.03-182121-755"
       },
       "color": "coral",
       "id": "do-caribe-visa-clasica-internacional",
@@ -5760,7 +5775,7 @@
           "#FFE3D8"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-caribe-visa-clasica-local.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-caribe-visa-clasica-local.png?v=2026.08.03-182121-755"
       },
       "color": "coral",
       "id": "do-caribe-visa-clasica-local",
@@ -5792,7 +5807,7 @@
           "#FFE3D8"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-caribe-visa-infinite-elite.jpg?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-caribe-visa-infinite-elite.jpg?v=2026.08.03-182121-755"
       },
       "color": "coral",
       "id": "do-caribe-visa-infinite-elite",
@@ -5824,7 +5839,7 @@
           "#FFE3D8"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-caribe-visa-oro.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-caribe-visa-oro.png?v=2026.08.03-182121-755"
       },
       "color": "coral",
       "id": "do-caribe-visa-oro",
@@ -5856,7 +5871,7 @@
           "#FFE3D8"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-caribe-visa-platinum.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-caribe-visa-platinum.png?v=2026.08.03-182121-755"
       },
       "color": "coral",
       "id": "do-caribe-visa-platinum",
@@ -5888,7 +5903,7 @@
           "#DCEEFF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-banreservas-mastercard-black.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-banreservas-mastercard-black.png?v=2026.08.03-182121-755"
       },
       "color": "blue",
       "id": "do-banreservas-mastercard-black",
@@ -5909,18 +5924,13 @@
           "note": "2 Puntos Banreservas per RD$200 at eligible travel agencies."
         },
         {
-          "category": "hotels",
-          "multiplier": 2,
-          "note": "2 Puntos Banreservas per RD$200 at eligible lodging merchants."
-        },
-        {
           "category": "everyday",
           "multiplier": 1,
-          "note": "1 Punto Banreservas per RD$200 in eligible purchases; 1 point = RD$1."
+          "note": "1 Punto Banreservas per RD$200 on other eligible purchases; salons and spas also earn double points but are not catalog categories."
         }
       ],
       "sourceName": "Banreservas",
-      "sourceURL": "https://www.banreservas.com/pages/puntos-banreservas/"
+      "sourceURL": "https://cdnebrpeastus.azureedge.net/banreservas/media/2zcdemrk/politicas-plan-de-lealtad-a-partir-del-01-agosto-2026.pdf"
     },
     {
       "aliases": [
@@ -5935,7 +5945,7 @@
           "#DCEEFF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-banreservas-mastercard-gold.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-banreservas-mastercard-gold.png?v=2026.08.03-182121-755"
       },
       "color": "blue",
       "id": "do-banreservas-mastercard-gold",
@@ -5967,7 +5977,7 @@
           "#DCEEFF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-banreservas-mastercard-platinum.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-banreservas-mastercard-platinum.png?v=2026.08.03-182121-755"
       },
       "color": "blue",
       "id": "do-banreservas-mastercard-platinum",
@@ -5999,7 +6009,7 @@
           "#DCEEFF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-banreservas-mastercard-standard.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-banreservas-mastercard-standard.png?v=2026.08.03-182121-755"
       },
       "color": "blue",
       "id": "do-banreservas-mastercard-standard",
@@ -6031,7 +6041,7 @@
           "#DCEEFF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-banreservas-mastercard-standard-tactil.jpg?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-banreservas-mastercard-standard-tactil.jpg?v=2026.08.03-182121-755"
       },
       "color": "blue",
       "id": "do-banreservas-mastercard-standard-tactil",
@@ -6094,7 +6104,7 @@
           "#DCEEFF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-banreservas-visa-clasica.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-banreservas-visa-clasica.png?v=2026.08.03-182121-755"
       },
       "color": "blue",
       "id": "do-banreservas-visa-clasica",
@@ -6126,7 +6136,7 @@
           "#DCEEFF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-banreservas-visa-flotilla-personal.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-banreservas-visa-flotilla-personal.png?v=2026.08.03-182121-755"
       },
       "color": "blue",
       "id": "do-banreservas-visa-flotilla-personal",
@@ -6138,12 +6148,12 @@
       "rules": [
         {
           "category": "everyday",
-          "multiplier": 0,
-          "note": "No ongoing points, miles, or cash-back rate is published in the issuer's current product information or tariff."
+          "multiplier": 1,
+          "note": "1 Punto Banreservas per RD$200 in eligible purchases under the loyalty policy effective August 1, 2026."
         }
       ],
       "sourceName": "Banreservas",
-      "sourceURL": "https://banreservas.com/personal/tarjetas/"
+      "sourceURL": "https://cdnebrpeastus.azureedge.net/banreservas/media/2zcdemrk/politicas-plan-de-lealtad-a-partir-del-01-agosto-2026.pdf"
     },
     {
       "aliases": [
@@ -6158,7 +6168,7 @@
           "#DCEEFF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-banreservas-visa-gold.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-banreservas-visa-gold.png?v=2026.08.03-182121-755"
       },
       "color": "blue",
       "id": "do-banreservas-visa-gold",
@@ -6190,7 +6200,7 @@
           "#DCEEFF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-banreservas-visa-infinite.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-banreservas-visa-infinite.png?v=2026.08.03-182121-755"
       },
       "color": "blue",
       "id": "do-banreservas-visa-infinite",
@@ -6211,18 +6221,13 @@
           "note": "2 Puntos Banreservas per RD$200 at eligible travel agencies."
         },
         {
-          "category": "hotels",
-          "multiplier": 2,
-          "note": "2 Puntos Banreservas per RD$200 at eligible lodging merchants."
-        },
-        {
           "category": "everyday",
           "multiplier": 1,
-          "note": "1 Punto Banreservas per RD$200 in eligible purchases; 1 point = RD$1."
+          "note": "1 Punto Banreservas per RD$200 on other eligible purchases; salons and spas also earn double points but are not catalog categories."
         }
       ],
       "sourceName": "Banreservas",
-      "sourceURL": "https://www.banreservas.com/pages/puntos-banreservas/"
+      "sourceURL": "https://cdnebrpeastus.azureedge.net/banreservas/media/2zcdemrk/politicas-plan-de-lealtad-a-partir-del-01-agosto-2026.pdf"
     },
     {
       "aliases": [
@@ -6237,7 +6242,7 @@
           "#DCEEFF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-banreservas-visa-platinum.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-banreservas-visa-platinum.png?v=2026.08.03-182121-755"
       },
       "color": "blue",
       "id": "do-banreservas-visa-platinum",
@@ -6269,7 +6274,7 @@
           "#DCEEFF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-banreservas-visa-platinum-universe.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-banreservas-visa-platinum-universe.png?v=2026.08.03-182121-755"
       },
       "color": "blue",
       "id": "do-banreservas-visa-platinum-universe",
@@ -6301,7 +6306,7 @@
           "#DCEEFF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-banreservas-visa-ser.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-banreservas-visa-ser.png?v=2026.08.03-182121-755"
       },
       "color": "blue",
       "id": "do-banreservas-visa-ser",
@@ -6312,13 +6317,48 @@
       "rotatingPeriods": [],
       "rules": [
         {
+          "category": "pharmacy",
+          "multiplier": 3,
+          "note": "3% cash back at eligible pharmacies on Mondays and Wednesdays; RD$1,000 monthly cap."
+        },
+        {
+          "category": "groceries",
+          "multiplier": 3,
+          "note": "3% cash back at eligible supermarkets on Tuesdays and Thursdays; RD$1,500 monthly cap."
+        },
+        {
+          "category": "gas",
+          "multiplier": 3,
+          "note": "3% cash back at eligible gas stations on Fridays; RD$1,000 monthly cap."
+        },
+        {
+          "category": "bills",
+          "multiplier": 4,
+          "note": "4% cash back on eligible education payments every day; RD$1,000 monthly cap."
+        },
+        {
+          "category": "transit",
+          "multiplier": 5,
+          "note": "5% cash back on eligible transportation purchases every day; RD$1,000 monthly cap."
+        },
+        {
+          "category": "utilities",
+          "multiplier": 5,
+          "note": "5% cash back on eligible service payments every day; RD$1,000 monthly cap."
+        },
+        {
+          "category": "entertainment",
+          "multiplier": 5,
+          "note": "5% cash back on eligible entertainment purchases every day; RD$1,000 monthly cap."
+        },
+        {
           "category": "everyday",
           "multiplier": 0,
-          "note": "Cash back is offered in grocery, pharmacy, fuel, education, transit, health, and entertainment groups, but the current public page does not expose stable rates in text; no guessed multiplier is encoded."
+          "note": "No generic base reward. Eligible health purchases earn 3% every day up to RD$1,500 monthly, but health is not a catalog category."
         }
       ],
       "sourceName": "Banreservas",
-      "sourceURL": "https://banreservas.com/personal/tarjetas/"
+      "sourceURL": "https://www.banreservas.com/personal/tarjetas/tarjeta-de-credito-visa-ser-banreservas/"
     },
     {
       "aliases": [
@@ -6333,7 +6373,7 @@
           "#DBF6E6"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-lafise-mastercard-black.webp?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-lafise-mastercard-black.webp?v=2026.08.03-182121-755"
       },
       "color": "mint",
       "id": "do-lafise-mastercard-black",
@@ -6375,7 +6415,7 @@
           "#DBF6E6"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-lafise-mastercard-standard.webp?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-lafise-mastercard-standard.webp?v=2026.08.03-182121-755"
       },
       "color": "mint",
       "id": "do-lafise-mastercard-standard",
@@ -6437,7 +6477,7 @@
           "#DBF6E6"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-lafise-visa-clasica.webp?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-lafise-visa-clasica.webp?v=2026.08.03-182121-755"
       },
       "color": "mint",
       "id": "do-lafise-visa-clasica",
@@ -6499,7 +6539,7 @@
           "#DBF6E6"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-lafise-visa-gold.webp?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-lafise-visa-gold.webp?v=2026.08.03-182121-755"
       },
       "color": "mint",
       "id": "do-lafise-visa-gold",
@@ -6566,7 +6606,7 @@
           "#DBF6E6"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-lafise-visa-infinite.webp?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-lafise-visa-infinite.webp?v=2026.08.03-182121-755"
       },
       "color": "mint",
       "id": "do-lafise-visa-infinite",
@@ -6608,7 +6648,7 @@
           "#DBF6E6"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-lafise-visa-platinum.webp?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-lafise-visa-platinum.webp?v=2026.08.03-182121-755"
       },
       "color": "mint",
       "id": "do-lafise-visa-platinum",
@@ -6650,7 +6690,7 @@
           "#E5EAF0"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-blh-almacenes-unidos.jpg?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-blh-almacenes-unidos.jpg?v=2026.08.03-182121-755"
       },
       "color": "graphite",
       "id": "do-blh-almacenes-unidos",
@@ -6702,7 +6742,7 @@
           "#E5EAF0"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-blh-casa-de-espana.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-blh-casa-de-espana.png?v=2026.08.03-182121-755"
       },
       "color": "graphite",
       "id": "do-blh-casa-de-espana",
@@ -6734,7 +6774,7 @@
           "#E5EAF0"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-blh-club-hemingway.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-blh-club-hemingway.png?v=2026.08.03-182121-755"
       },
       "color": "graphite",
       "id": "do-blh-club-hemingway",
@@ -6766,7 +6806,7 @@
           "#E5EAF0"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-blh-gold-unibe.jpg?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-blh-gold-unibe.jpg?v=2026.08.03-182121-755"
       },
       "color": "graphite",
       "id": "do-blh-gold-unibe",
@@ -6798,7 +6838,7 @@
           "#E5EAF0"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-blh-visa-gold.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-blh-visa-gold.png?v=2026.08.03-182121-755"
       },
       "color": "graphite",
       "id": "do-blh-visa-gold",
@@ -6830,7 +6870,7 @@
           "#E5EAF0"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-blh-visa-infinite.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-blh-visa-infinite.png?v=2026.08.03-182121-755"
       },
       "color": "graphite",
       "id": "do-blh-visa-infinite",
@@ -6862,7 +6902,7 @@
           "#E5EAF0"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-blh-visa-infinite-iberia.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-blh-visa-infinite-iberia.png?v=2026.08.03-182121-755"
       },
       "color": "graphite",
       "id": "do-blh-visa-infinite-iberia",
@@ -6899,7 +6939,7 @@
           "#E5EAF0"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-blh-visa-platinum.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-blh-visa-platinum.png?v=2026.08.03-182121-755"
       },
       "color": "graphite",
       "id": "do-blh-visa-platinum",
@@ -6931,7 +6971,7 @@
           "#E5EAF0"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-blh-visa-platinum-iberia.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-blh-visa-platinum-iberia.png?v=2026.08.03-182121-755"
       },
       "color": "graphite",
       "id": "do-blh-visa-platinum-iberia",
@@ -6968,7 +7008,7 @@
           "#DDEEFF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-popular-clasica-popular-bank.webp?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-popular-clasica-popular-bank.webp?v=2026.08.03-182121-755"
       },
       "color": "blue",
       "id": "do-popular-clasica-popular-bank",
@@ -7000,7 +7040,7 @@
           "#DDEEFF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-popular-gold-popular-bank.webp?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-popular-gold-popular-bank.webp?v=2026.08.03-182121-755"
       },
       "color": "blue",
       "id": "do-popular-gold-popular-bank",
@@ -7032,7 +7072,7 @@
           "#DDEEFF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-popular-almacenes-iberia.webp?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-popular-almacenes-iberia.webp?v=2026.08.03-182121-755"
       },
       "color": "blue",
       "id": "do-popular-almacenes-iberia",
@@ -7069,7 +7109,7 @@
           "#DDEEFF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-popular-mastercard-black.webp?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-popular-mastercard-black.webp?v=2026.08.03-182121-755"
       },
       "color": "blue",
       "id": "do-popular-mastercard-black",
@@ -7111,7 +7151,7 @@
           "#DDEEFF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-popular-mastercard-black-popular-bank.webp?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-popular-mastercard-black-popular-bank.webp?v=2026.08.03-182121-755"
       },
       "color": "blue",
       "id": "do-popular-mastercard-black-popular-bank",
@@ -7153,7 +7193,7 @@
           "#DDEEFF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-popular-caminantes.webp?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-popular-caminantes.webp?v=2026.08.03-182121-755"
       },
       "color": "blue",
       "id": "do-popular-caminantes",
@@ -7166,11 +7206,11 @@
         {
           "category": "everyday",
           "multiplier": 1,
-          "note": "1 Milla Popular per RD$100 (or equivalent) in eligible purchases, plus Pasos supporting Fundación Caminantes por la Vida."
+          "note": "1 Milla Popular per US$1 (or peso equivalent) in eligible purchases, plus Pasos supporting Fundación Caminantes por la Vida."
         }
       ],
       "sourceName": "Banco Popular Dominicano",
-      "sourceURL": "https://popularenlinea.com/tarjetas"
+      "sourceURL": "https://popularenlinea.com/millas"
     },
     {
       "aliases": [
@@ -7185,7 +7225,7 @@
           "#DDEEFF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-popular-gnial.webp?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-popular-gnial.webp?v=2026.08.03-182121-755"
       },
       "color": "blue",
       "id": "do-popular-gnial",
@@ -7232,7 +7272,7 @@
         }
       ],
       "sourceName": "Banco Popular Dominicano",
-      "sourceURL": "https://popularenlinea.com/Personas/Paginas/tarjetas/content-sections/gnial/doc/Requisitos_Tarjeta_Gnial.pdf"
+      "sourceURL": "https://popularenlinea.com/Personas/Paginas/tarjetas/content-sections/landing%20gnial/doc/Info-MC-Gnial.pdf"
     },
     {
       "aliases": [
@@ -7247,7 +7287,7 @@
           "#DDEEFF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-popular-mastercard-infinia.webp?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-popular-mastercard-infinia.webp?v=2026.08.03-182121-755"
       },
       "color": "blue",
       "id": "do-popular-mastercard-infinia",
@@ -7289,7 +7329,7 @@
           "#DDEEFF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-popular-mastercard-jetblue.webp?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-popular-mastercard-jetblue.webp?v=2026.08.03-182121-755"
       },
       "color": "blue",
       "id": "do-popular-mastercard-jetblue",
@@ -7326,7 +7366,7 @@
           "#DDEEFF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-popular-mastercard-orbit.webp?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-popular-mastercard-orbit.webp?v=2026.08.03-182121-755"
       },
       "color": "blue",
       "id": "do-popular-mastercard-orbit",
@@ -7368,7 +7408,7 @@
           "#DDEEFF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-popular-plus-ccn.webp?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-popular-plus-ccn.webp?v=2026.08.03-182121-755"
       },
       "color": "blue",
       "id": "do-popular-plus-ccn",
@@ -7405,7 +7445,7 @@
           "#DDEEFF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-popular-mastercard-seguros-universal.webp?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-popular-mastercard-seguros-universal.webp?v=2026.08.03-182121-755"
       },
       "color": "blue",
       "id": "do-popular-mastercard-seguros-universal",
@@ -7437,7 +7477,7 @@
           "#DDEEFF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-popular-united-mileageplus.webp?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-popular-united-mileageplus.webp?v=2026.08.03-182121-755"
       },
       "color": "blue",
       "id": "do-popular-united-mileageplus",
@@ -7474,7 +7514,7 @@
           "#DDEEFF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-popular-clasica.webp?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-popular-clasica.webp?v=2026.08.03-182121-755"
       },
       "color": "blue",
       "id": "do-popular-clasica",
@@ -7506,7 +7546,7 @@
           "#DDEEFF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-popular-gold.webp?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-popular-gold.webp?v=2026.08.03-182121-755"
       },
       "color": "blue",
       "id": "do-popular-gold",
@@ -7538,7 +7578,7 @@
           "#DDEEFF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-popular-titanium.webp?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-popular-titanium.webp?v=2026.08.03-182121-755"
       },
       "color": "blue",
       "id": "do-popular-titanium",
@@ -7549,23 +7589,18 @@
       "rotatingPeriods": [],
       "rules": [
         {
-          "category": "flights",
+          "category": "bills",
           "multiplier": 2,
-          "note": "2 Millas Popular per US$1 on eligible airline purchases."
-        },
-        {
-          "category": "travel",
-          "multiplier": 2,
-          "note": "2 Millas Popular per US$1 at eligible travel agencies."
+          "note": "2 Millas Popular per US$1 on eligible Claro, Altice Dominicana, and Viva telecom bills."
         },
         {
           "category": "everyday",
           "multiplier": 1,
-          "note": "1 Milla Popular per US$1 (or peso equivalent) in eligible purchases."
+          "note": "1 Milla Popular per US$1 (or peso equivalent) in other eligible purchases."
         }
       ],
       "sourceName": "Banco Popular Dominicano",
-      "sourceURL": "https://popularenlinea.com/tarjetas"
+      "sourceURL": "https://popularenlinea.com/titanium"
     },
     {
       "aliases": [
@@ -7580,7 +7615,7 @@
           "#DDEEFF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-popular-titanium-popular-bank.webp?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-popular-titanium-popular-bank.webp?v=2026.08.03-182121-755"
       },
       "color": "blue",
       "id": "do-popular-titanium-popular-bank",
@@ -7607,7 +7642,7 @@
         }
       ],
       "sourceName": "Banco Popular Dominicano",
-      "sourceURL": "https://popularenlinea.com/tarjetas"
+      "sourceURL": "https://popularenlinea.com/titaniumpb"
     },
     {
       "aliases": [
@@ -7622,7 +7657,7 @@
           "#DDEEFF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-popular-visa-ikea-family.webp?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-popular-visa-ikea-family.webp?v=2026.08.03-182121-755"
       },
       "color": "blue",
       "id": "do-popular-visa-ikea-family",
@@ -7659,7 +7694,7 @@
           "#DDEEFF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-popular-visa-infinite-prestige.webp?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-popular-visa-infinite-prestige.webp?v=2026.08.03-182121-755"
       },
       "color": "blue",
       "id": "do-popular-visa-infinite-prestige",
@@ -7701,7 +7736,7 @@
           "#DDEEFF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-popular-visa-isi.webp?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-popular-visa-isi.webp?v=2026.08.03-182121-755"
       },
       "color": "blue",
       "id": "do-popular-visa-isi",
@@ -7779,7 +7814,7 @@
           "#DDF7E9"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-promerica-connectmiles-infinite.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-promerica-connectmiles-infinite.png?v=2026.08.03-182121-755"
       },
       "color": "mint",
       "id": "do-promerica-connectmiles-infinite",
@@ -7826,7 +7861,7 @@
           "#DDF7E9"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-promerica-connectmiles-platinum.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-promerica-connectmiles-platinum.png?v=2026.08.03-182121-755"
       },
       "color": "mint",
       "id": "do-promerica-connectmiles-platinum",
@@ -7863,7 +7898,7 @@
           "#DDF7E9"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-promerica-iberia-infinite.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-promerica-iberia-infinite.png?v=2026.08.03-182121-755"
       },
       "color": "mint",
       "id": "do-promerica-iberia-infinite",
@@ -7895,7 +7930,7 @@
           "#DDF7E9"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-promerica-iberia-platinum.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-promerica-iberia-platinum.png?v=2026.08.03-182121-755"
       },
       "color": "mint",
       "id": "do-promerica-iberia-platinum",
@@ -7927,7 +7962,7 @@
           "#DDF7E9"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-promerica-spirit-gold.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-promerica-spirit-gold.png?v=2026.08.03-182121-755"
       },
       "color": "mint",
       "id": "do-promerica-spirit-gold",
@@ -7964,7 +7999,7 @@
           "#DDF7E9"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-promerica-spirit-platinum.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-promerica-spirit-platinum.png?v=2026.08.03-182121-755"
       },
       "color": "mint",
       "id": "do-promerica-spirit-platinum",
@@ -8001,7 +8036,7 @@
           "#DDF7E9"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-promerica-visa-clasica.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-promerica-visa-clasica.png?v=2026.08.03-182121-755"
       },
       "color": "mint",
       "id": "do-promerica-visa-clasica",
@@ -8033,7 +8068,7 @@
           "#DDF7E9"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-promerica-visa-gold.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-promerica-visa-gold.png?v=2026.08.03-182121-755"
       },
       "color": "mint",
       "id": "do-promerica-visa-gold",
@@ -8065,7 +8100,7 @@
           "#DDF7E9"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-promerica-visa-gold-plus.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-promerica-visa-gold-plus.png?v=2026.08.03-182121-755"
       },
       "color": "mint",
       "id": "do-promerica-visa-gold-plus",
@@ -8078,22 +8113,22 @@
         {
           "category": "gas",
           "multiplier": 5,
-          "note": "5% cash back at eligible gas stations."
+          "note": "5 Promerica points per RD$100 or US$3 at eligible gas stations."
         },
         {
           "category": "streaming",
           "multiplier": 4,
-          "note": "4% cash back on listed streaming subscriptions."
+          "note": "4 Promerica points per RD$100 or US$3 on listed streaming subscriptions."
         },
         {
           "category": "bills",
           "multiplier": 3,
-          "note": "3% cash back on eligible electricity, water, and telecom bills."
+          "note": "3 Promerica points per RD$100 or US$3 on eligible electricity, water, and telecom bills."
         },
         {
           "category": "groceries",
           "multiplier": 2,
-          "note": "2% cash back at eligible supermarkets."
+          "note": "2 Promerica points per RD$100 or US$3 at eligible supermarkets."
         },
         {
           "category": "everyday",
@@ -8117,7 +8152,7 @@
           "#DDF7E9"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-promerica-visa-infinite.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-promerica-visa-infinite.png?v=2026.08.03-182121-755"
       },
       "color": "mint",
       "id": "do-promerica-visa-infinite",
@@ -8149,7 +8184,7 @@
           "#DDF7E9"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-promerica-visa-mi-super.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-promerica-visa-mi-super.png?v=2026.08.03-182121-755"
       },
       "color": "mint",
       "id": "do-promerica-visa-mi-super",
@@ -8162,12 +8197,12 @@
         {
           "category": "groceries",
           "multiplier": 5,
-          "note": "5% cash back at eligible supermarkets; issuer cap and exclusions apply."
+          "note": "5 Promerica points per RD$100 or US$3 at eligible supermarkets; issuer cap and exclusions apply."
         },
         {
           "category": "pharmacy",
           "multiplier": 3,
-          "note": "3% cash back at eligible pharmacies; issuer cap and exclusions apply."
+          "note": "3 Promerica points per RD$100 or US$3 at eligible pharmacies; issuer cap and exclusions apply."
         },
         {
           "category": "everyday",
@@ -8191,7 +8226,7 @@
           "#DDF7E9"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-promerica-visa-platinum.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-promerica-visa-platinum.png?v=2026.08.03-182121-755"
       },
       "color": "mint",
       "id": "do-promerica-visa-platinum",
@@ -8223,7 +8258,7 @@
           "#DDF7E9"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-promerica-visa-platinum-premium.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-promerica-visa-platinum-premium.png?v=2026.08.03-182121-755"
       },
       "color": "mint",
       "id": "do-promerica-visa-platinum-premium",
@@ -8255,7 +8290,7 @@
           "#FFE1E4"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-santa-cruz-bravo.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-santa-cruz-bravo.png?v=2026.08.03-182121-755"
       },
       "color": "coral",
       "id": "do-santa-cruz-bravo",
@@ -8266,18 +8301,38 @@
       "rotatingPeriods": [],
       "rules": [
         {
+          "category": "groceries",
+          "multiplier": 7,
+          "note": "7% cash back at Supermercados Bravo and participating Bravo ecosystem merchants; this is 8% combined when the separate 1% Bravísimo merchant reward applies."
+        },
+        {
           "category": "amazon",
           "multiplier": 5,
           "note": "5% cash back on eligible Amazon purchases; issuer cap and exclusions apply."
         },
         {
+          "category": "streaming",
+          "multiplier": 5,
+          "note": "5% cash back on eligible streaming and selected digital-app purchases."
+        },
+        {
+          "category": "transit",
+          "multiplier": 5,
+          "note": "5% cash back on eligible digital transportation apps, including Uber and Cabify."
+        },
+        {
+          "category": "apple",
+          "multiplier": 5,
+          "note": "5% cash back on eligible App Store and iTunes purchases."
+        },
+        {
           "category": "everyday",
           "multiplier": 1,
-          "note": "1 Punto Santa Cruz per RD$100 or US$3 in eligible purchases; 1 point = RD$1."
+          "note": "1% cash back on other eligible purchases."
         }
       ],
       "sourceName": "Banco Santa Cruz",
-      "sourceURL": "https://bsc.com.do/productos/tarjetas-de-credito"
+      "sourceURL": "https://bsc.com.do/productos/tarjetas/6632bbff406fbe820f0bcea5/bravo-santa-cruz"
     },
     {
       "aliases": [
@@ -8292,7 +8347,7 @@
           "#FFE1E4"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-santa-cruz-cecomsa.jpg?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-santa-cruz-cecomsa.jpg?v=2026.08.03-182121-755"
       },
       "color": "coral",
       "id": "do-santa-cruz-cecomsa",
@@ -8324,7 +8379,7 @@
           "#FFE1E4"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-santa-cruz-credito-joven.jpg?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-santa-cruz-credito-joven.jpg?v=2026.08.03-182121-755"
       },
       "color": "coral",
       "id": "do-santa-cruz-credito-joven",
@@ -8371,7 +8426,7 @@
           "#FFE1E4"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-santa-cruz-full-car-personal.jpg?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-santa-cruz-full-car-personal.jpg?v=2026.08.03-182121-755"
       },
       "color": "coral",
       "id": "do-santa-cruz-full-car-personal",
@@ -8403,7 +8458,7 @@
           "#FFE1E4"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-santa-cruz-visa-clasica.jpg?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-santa-cruz-visa-clasica.jpg?v=2026.08.03-182121-755"
       },
       "color": "coral",
       "id": "do-santa-cruz-visa-clasica",
@@ -8435,7 +8490,7 @@
           "#FFE1E4"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-santa-cruz-visa-gold.jpg?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-santa-cruz-visa-gold.jpg?v=2026.08.03-182121-755"
       },
       "color": "coral",
       "id": "do-santa-cruz-visa-gold",
@@ -8467,7 +8522,7 @@
           "#FFE1E4"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-santa-cruz-visa-infinite.jpg?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-santa-cruz-visa-infinite.jpg?v=2026.08.03-182121-755"
       },
       "color": "coral",
       "id": "do-santa-cruz-visa-infinite",
@@ -8499,7 +8554,7 @@
           "#FFE1E4"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-santa-cruz-visa-platinum.jpg?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-santa-cruz-visa-platinum.jpg?v=2026.08.03-182121-755"
       },
       "color": "coral",
       "id": "do-santa-cruz-visa-platinum",
@@ -8531,7 +8586,7 @@
           "#FFE1E4"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-santa-cruz-pricesmart-personal.webp?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-santa-cruz-pricesmart-personal.webp?v=2026.08.03-182121-755"
       },
       "color": "coral",
       "id": "do-santa-cruz-pricesmart-personal",
@@ -8624,13 +8679,23 @@
       "rotatingPeriods": [],
       "rules": [
         {
+          "category": "dining",
+          "multiplier": 10,
+          "note": "10% cash back at eligible fast-food merchants."
+        },
+        {
+          "category": "transit",
+          "multiplier": 5,
+          "note": "5% cash back on eligible digital transportation platforms."
+        },
+        {
           "category": "everyday",
           "multiplier": 0,
-          "note": "No ongoing points, miles, or cash-back rate is published in the issuer's current product information or tariff."
+          "note": "Eligible US-dollar purchases earn 1% cash back, but no generic rate applies to ordinary Dominican-peso purchases. The category benefits share a RD$750-equivalent monthly cap."
         }
       ],
       "sourceName": "Banco Vimenca",
-      "sourceURL": "https://www.bancovimenca.com/perch/resources/tarifario-octubre-08-de-octubre-2025.pdf"
+      "sourceURL": "https://www.bancovimenca.com/beneficiostc"
     },
     {
       "aliases": [
@@ -8655,13 +8720,23 @@
       "rotatingPeriods": [],
       "rules": [
         {
+          "category": "dining",
+          "multiplier": 10,
+          "note": "10% cash back at eligible fast-food merchants."
+        },
+        {
+          "category": "transit",
+          "multiplier": 5,
+          "note": "5% cash back on eligible digital transportation platforms."
+        },
+        {
           "category": "everyday",
           "multiplier": 0,
-          "note": "No ongoing points, miles, or cash-back rate is published in the issuer's current product information or tariff."
+          "note": "Eligible US-dollar purchases earn 1% cash back, but no generic rate applies to ordinary Dominican-peso purchases. The category benefits share a RD$750-equivalent monthly cap."
         }
       ],
       "sourceName": "Banco Vimenca",
-      "sourceURL": "https://www.bancovimenca.com/perch/resources/tarifario-octubre-08-de-octubre-2025.pdf"
+      "sourceURL": "https://www.bancovimenca.com/beneficiostc"
     },
     {
       "aliases": [
@@ -8686,13 +8761,18 @@
       "rotatingPeriods": [],
       "rules": [
         {
+          "category": "groceries",
+          "multiplier": 6,
+          "note": "6% cash back at eligible supermarkets."
+        },
+        {
           "category": "everyday",
           "multiplier": 0,
-          "note": "No ongoing points, miles, or cash-back rate is published in the issuer's current product information or tariff."
+          "note": "Eligible US-dollar purchases earn 1% cash back, but no generic rate applies to ordinary Dominican-peso purchases. The benefits share a RD$1,250-equivalent monthly cap."
         }
       ],
       "sourceName": "Banco Vimenca",
-      "sourceURL": "https://www.bancovimenca.com/perch/resources/tarifario-octubre-08-de-octubre-2025.pdf"
+      "sourceURL": "https://www.bancovimenca.com/beneficiostc"
     },
     {
       "aliases": [
@@ -8779,13 +8859,33 @@
       "rotatingPeriods": [],
       "rules": [
         {
+          "category": "dining",
+          "multiplier": 2,
+          "note": "2 Vimenca points per RD$100 or US$3 at eligible local restaurants and bars."
+        },
+        {
+          "category": "travel",
+          "multiplier": 2,
+          "note": "2 Vimenca points per RD$100 or US$3 at eligible local travel agencies."
+        },
+        {
+          "category": "hotels",
+          "multiplier": 2,
+          "note": "2 Vimenca points per RD$100 or US$3 at eligible local hotels and lodging merchants."
+        },
+        {
+          "category": "entertainment",
+          "multiplier": 2,
+          "note": "2 Vimenca points per RD$100 or US$3 at eligible entertainment merchants, including cinemas, theaters, and concerts."
+        },
+        {
           "category": "everyday",
-          "multiplier": 0,
-          "note": "No ongoing points, miles, or cash-back rate is published in the issuer's current product information or tariff."
+          "multiplier": 1,
+          "note": "1 Vimenca point per RD$100 or US$3 on other eligible local and international purchases."
         }
       ],
       "sourceName": "Banco Vimenca",
-      "sourceURL": "https://www.bancovimenca.com/perch/resources/tarifario-octubre-08-de-octubre-2025.pdf"
+      "sourceURL": "https://www.bancovimenca.com/beneficiostc"
     },
     {
       "aliases": [
@@ -8800,7 +8900,7 @@
           "#FFF1BC"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-vimenca-infinite.jpg?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-vimenca-infinite.jpg?v=2026.08.03-182121-755"
       },
       "color": "gold",
       "id": "do-vimenca-infinite",
@@ -8842,7 +8942,7 @@
         }
       ],
       "sourceName": "Banco Vimenca",
-      "sourceURL": "https://bancovimenca.com/tarjetas/visa-infinite-page"
+      "sourceURL": "https://www.bancovimenca.com/beneficiostc"
     },
     {
       "aliases": [
@@ -8857,7 +8957,7 @@
           "#D7F8EA"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-banesco-mastercard-black.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-banesco-mastercard-black.png?v=2026.08.03-182121-755"
       },
       "color": "mint",
       "id": "do-banesco-mastercard-black",
@@ -8889,7 +8989,7 @@
           "#D7F8EA"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-banesco-mastercard-black-air-europa.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-banesco-mastercard-black-air-europa.png?v=2026.08.03-182121-755"
       },
       "color": "mint",
       "id": "do-banesco-mastercard-black-air-europa",
@@ -8951,7 +9051,7 @@
           "#D7F8EA"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-banesco-mastercard-gold.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-banesco-mastercard-gold.png?v=2026.08.03-182121-755"
       },
       "color": "mint",
       "id": "do-banesco-mastercard-gold",
@@ -8983,7 +9083,7 @@
           "#D7F8EA"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-banesco-mastercard-platinum.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-banesco-mastercard-platinum.png?v=2026.08.03-182121-755"
       },
       "color": "mint",
       "id": "do-banesco-mastercard-platinum",
@@ -9015,7 +9115,7 @@
           "#D7F8EA"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-banesco-mastercard-standard.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-banesco-mastercard-standard.png?v=2026.08.03-182121-755"
       },
       "color": "mint",
       "id": "do-banesco-mastercard-standard",
@@ -9047,7 +9147,7 @@
           "#D7F8EA"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-banesco-visa-clasica.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-banesco-visa-clasica.png?v=2026.08.03-182121-755"
       },
       "color": "mint",
       "id": "do-banesco-visa-clasica",
@@ -9079,7 +9179,7 @@
           "#D7F8EA"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-banesco-visa-gold.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-banesco-visa-gold.png?v=2026.08.03-182121-755"
       },
       "color": "mint",
       "id": "do-banesco-visa-gold",
@@ -9111,7 +9211,7 @@
           "#D7F8EA"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-banesco-visa-infinite.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-banesco-visa-infinite.png?v=2026.08.03-182121-755"
       },
       "color": "mint",
       "id": "do-banesco-visa-infinite",
@@ -9143,7 +9243,7 @@
           "#D7F8EA"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-banesco-visa-infinite-connectmiles.jpg?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-banesco-visa-infinite-connectmiles.jpg?v=2026.08.03-182121-755"
       },
       "color": "mint",
       "id": "do-banesco-visa-infinite-connectmiles",
@@ -9195,7 +9295,7 @@
           "#D7F8EA"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-banesco-visa-platinum.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-banesco-visa-platinum.png?v=2026.08.03-182121-755"
       },
       "color": "mint",
       "id": "do-banesco-visa-platinum",
@@ -9227,7 +9327,7 @@
           "#D7F8EA"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-banesco-visa-platinum-connectmiles.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-banesco-visa-platinum-connectmiles.png?v=2026.08.03-182121-755"
       },
       "color": "mint",
       "id": "do-banesco-visa-platinum-connectmiles",
@@ -9260,7 +9360,7 @@
         {
           "category": "everyday",
           "multiplier": 1,
-          "note": "1 ConnectMile per US$1 on other eligible purchases."
+          "note": "1 ConnectMile per US$1 on other eligible purchases; eligible foreign purchases earn 3 per US$1."
         }
       ],
       "sourceName": "Banesco",
@@ -9279,7 +9379,7 @@
           "#D7F8EA"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-banesco-visa-supercashback.png?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-banesco-visa-supercashback.png?v=2026.08.03-182121-755"
       },
       "color": "mint",
       "id": "do-banesco-visa-supercashback",
@@ -9307,7 +9407,7 @@
         {
           "category": "everyday",
           "multiplier": 0,
-          "note": "No base cash back is published outside the four bonus groups."
+          "note": "No base cash back is published outside the four bonus groups. Beauty purchases also earn 7%, but the catalog has no beauty category."
         }
       ],
       "sourceName": "Banesco",
@@ -9326,7 +9426,7 @@
           "#E7DFFF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-qik-mastercard-gold.webp?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-qik-mastercard-gold.webp?v=2026.08.03-182121-755"
       },
       "color": "graphite",
       "id": "do-qik-mastercard-gold",
@@ -9358,7 +9458,7 @@
           "#E7DFFF"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-qik-pro-mastercard-platinum.webp?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-qik-pro-mastercard-platinum.webp?v=2026.08.03-182121-755"
       },
       "color": "graphite",
       "id": "do-qik-pro-mastercard-platinum",
@@ -9369,13 +9469,33 @@
       "rotatingPeriods": [],
       "rules": [
         {
+          "category": "rotating",
+          "multiplier": 5,
+          "note": "Choose 5% in one eligible local category, or 3% in one and 2% in another. Each selected category has a RD$6,000 monthly cap; selections can change every six months. Gas and groceries are not eligible for the 5% option."
+        },
+        {
+          "category": "transit",
+          "multiplier": 10,
+          "note": "10% cash back on eligible international ground transportation; US$50 monthly cap."
+        },
+        {
+          "category": "dining",
+          "multiplier": 5,
+          "note": "5% cash back at eligible international restaurants; US$50 monthly cap."
+        },
+        {
+          "category": "travel",
+          "multiplier": 3,
+          "note": "3% cash back on eligible international car rentals; US$100 monthly cap."
+        },
+        {
           "category": "everyday",
           "multiplier": 1,
-          "note": "1% cash back on other eligible purchases. Choose either 5% in one eligible category or 3% in one and 2% in another; fuel and grocery are only eligible in the 3%/2% plan. Selections can change every six months and share an RD$6,000 cap."
+          "note": "1% unlimited cash back on other eligible purchases."
         }
       ],
       "sourceName": "Qik",
-      "sourceURL": "https://qik.do/AyudaQik/Qik-Pro/Sobre-Qik-Pro/"
+      "sourceURL": "https://qik.do/AyudaQik/Qik-Pro/Sobre-la-Tarjeta-de-Credito-Qik-Pro/"
     },
     {
       "aliases": [
@@ -9452,7 +9572,7 @@
           "#FFE0E5"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-scotiabank-aadvantage-platinum-visa.webp?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-scotiabank-aadvantage-platinum-visa.webp?v=2026.08.03-182121-755"
       },
       "color": "coral",
       "id": "do-scotiabank-aadvantage-platinum-visa",
@@ -9484,7 +9604,7 @@
           "#FFE0E5"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-scotiabank-american-express.webp?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-scotiabank-american-express.webp?v=2026.08.03-182121-755"
       },
       "color": "coral",
       "id": "do-scotiabank-american-express",
@@ -9516,7 +9636,7 @@
           "#FFE0E5"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-scotiabank-american-express-gold.webp?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-scotiabank-american-express-gold.webp?v=2026.08.03-182121-755"
       },
       "color": "coral",
       "id": "do-scotiabank-american-express-gold",
@@ -9584,7 +9704,7 @@
           "#FFE0E5"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-scotiabank-casa-de-campo-amex-platinum.webp?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-scotiabank-casa-de-campo-amex-platinum.webp?v=2026.08.03-182121-755"
       },
       "color": "coral",
       "id": "do-scotiabank-casa-de-campo-amex-platinum",
@@ -9626,7 +9746,7 @@
           "#FFE0E5"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-scotiabank-la-tarjeta-american-express.webp?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-scotiabank-la-tarjeta-american-express.webp?v=2026.08.03-182121-755"
       },
       "color": "coral",
       "id": "do-scotiabank-la-tarjeta-american-express",
@@ -9854,13 +9974,33 @@
       "rotatingPeriods": [],
       "rules": [
         {
+          "category": "groceries",
+          "multiplier": 7,
+          "note": "7% cash back at Supermercados Bravo and participating Bravo ecosystem merchants; this becomes 8% combined when the separate 1% Club Bravísimo reward applies. RD$11,000 monthly card-rebate cap."
+        },
+        {
+          "category": "streaming",
+          "multiplier": 5,
+          "note": "5% cash back on eligible digital streaming apps; shares a RD$1,000 monthly cap with other eligible digital apps."
+        },
+        {
+          "category": "transit",
+          "multiplier": 5,
+          "note": "5% cash back on eligible digital transportation apps, including Uber; shares a RD$1,000 monthly cap with other eligible digital apps."
+        },
+        {
+          "category": "apple",
+          "multiplier": 5,
+          "note": "5% cash back on eligible iTunes and App Store purchases; Google purchases also qualify but are not a catalog category."
+        },
+        {
           "category": "everyday",
           "multiplier": 1,
-          "note": "1 ScotiaClub point per US$1 (or peso equivalent) in eligible purchases; ScotiaClub points expire after two calendar years."
+          "note": "1 ScotiaClub point per US$1 (or peso equivalent) at other eligible merchants."
         }
       ],
       "sourceName": "Scotiabank República Dominicana",
-      "sourceURL": "https://do.scotiabank.com/banca-personal/tarjetas-de-credito/scotiabank-visa-bravo/terminos-y-condiciones-de-bravo.html"
+      "sourceURL": "https://do.scotiabank.com/banca-personal/tarjetas-de-credito/scotiabank-visa-bravo.html"
     },
     {
       "aliases": [
@@ -10061,7 +10201,7 @@
           "#FFE0E5"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-scotiabank-visa-infinite.webp?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-scotiabank-visa-infinite.webp?v=2026.08.03-182121-755"
       },
       "color": "coral",
       "id": "do-scotiabank-visa-infinite",
@@ -10165,7 +10305,7 @@
           "#FFE0E5"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-scotiabank-suma-ccn-amex.webp?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-scotiabank-suma-ccn-amex.webp?v=2026.08.03-182121-755"
       },
       "color": "coral",
       "id": "do-scotiabank-suma-ccn-amex",
@@ -10212,7 +10352,7 @@
           "#FFE0E5"
         ],
         "symbolName": "creditcard",
-        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-scotiabank-the-platinum-card.webp?v=2026.08.03-172733-880"
+        "imageURL": "https://onelldev.github.io/swipemax/artwork/do-scotiabank-the-platinum-card.webp?v=2026.08.03-182121-755"
       },
       "color": "coral",
       "id": "do-scotiabank-the-platinum-card",
@@ -10350,6 +10490,6 @@
       "sourceURL": "https://do.scotiabank.com/banca-personal/tarjetas-de-credito/programa-de-lealtad-scotiaclub0.html"
     }
   ],
-  "generatedAt": "2026-08-03T17:27:33.880Z",
-  "version": "2026.08.03-172733-880"
+  "generatedAt": "2026-08-03T18:21:21.755Z",
+  "version": "2026.08.03-182121-755"
 }
