@@ -33,16 +33,17 @@
 <body>
     <div class="card">
         <h1>TallyTV Privacy Policy</h1>
-        <p class="updated"><strong>Last updated: July 21, 2026</strong></p>
+        <p class="updated"><strong>Last updated: September 24, 2026</strong></p>
 
         <h2>1. Overview</h2>
-        <p>TallyTV is a media tracking app provided by onelldev. TallyTV does not require a separate TallyTV account, and onelldev does not operate a TallyTV account backend that receives your media library, watch history, or sync credentials. The app communicates directly with services you choose to connect and with the advertising and purchase providers described below.</p>
+        <p>TallyTV is a media tracking app for iOS and Android provided by onelldev. TallyTV does not require a separate TallyTV account, and onelldev does not operate a TallyTV account backend that receives your media library, watch history, or sync credentials. The app communicates directly with services you choose to connect and with the advertising, analytics, and purchase providers described below. Feature availability varies by platform and app version.</p>
 
         <h2>2. Data Stored on Your Device</h2>
         <ul>
             <li><strong>Library data:</strong> Watchlists, watched history, episode progress, media details, sync history, app settings, and reward counters are stored locally.</li>
             <li><strong>Connection credentials:</strong> SIMKL and Trakt access tokens and the Yamtrack password are stored using platform-protected storage: Apple Keychain on iOS and Android Keystore-backed encrypted preferences on Android. The Yamtrack server address and username are stored in app settings.</li>
             <li><strong>Purchase status:</strong> TallyTV stores and reads entitlement status needed to provide purchased features.</li>
+            <li><strong>Advertising settings on Android:</strong> The app reads Android's original installation timestamp to provide a seven-day ad-free period and stores the last interstitial presentation time locally to limit ad frequency. This installation timestamp is not sent to AdMob by TallyTV.</li>
         </ul>
 
         <h2>3. Media and Sync Services</h2>
@@ -51,23 +52,33 @@
             <li><strong>SIMKL and Trakt:</strong> Data is exchanged directly with the account you authorize.</li>
             <li><strong>Yamtrack:</strong> Data and login credentials are sent directly to the Yamtrack server address you configure. Yamtrack is self-hosted, so that server's operator controls its data and retention. If you choose an unencrypted HTTP server, traffic is not protected by HTTPS.</li>
             <li><strong>The Movie Database (TMDB):</strong> TallyTV sends requests such as media identifiers and search queries to retrieve titles, artwork, cast, release information, and related metadata.</li>
+            <li><strong>Plex and Jellyfin:</strong> When you connect a media server, TallyTV exchanges authorization information and media-library or viewing information with that service and the server you select. Server operators control their own data and retention. Connections to a server you configure with HTTP are not protected by HTTPS.</li>
         </ul>
         <p>Data already synced to a connected service is governed by that service and is not deleted when you remove local TallyTV data.</p>
 
         <h2>4. Advertising and Consent</h2>
-        <p>The free version uses Google AdMob for banner ads and optional rewarded ads. Google and its partners may process device identifiers, IP address (which may be used to estimate general location), app and ad interactions, diagnostics, and consent choices. The advertising identifier is available only when permitted by your device and platform privacy settings.</p>
-        <p>TallyTV uses Google's User Messaging Platform to request and store advertising consent where required. When available, you can review advertising choices under <strong>Settings &gt; Privacy Choices</strong>. Rewarded ads are optional and are used only when you choose to receive a temporary ad-free period or an extra manual sync.</p>
+        <p>Ad-supported versions of TallyTV use Google AdMob. On Android, ads include an inline banner in Discover and full-screen interstitials at browsing breaks. New Android installations receive seven full days without ads, measured from Android's recorded installation time; an app update does not restart this period. TallyTV Pro removes banner and full-screen ads throughout the Android app, and existing ad-removal purchases are honored. On iOS, supported versions may offer banners and optional rewarded ads; rewarded ads are shown only when you choose an offered reward, such as a temporary ad-free period or an extra manual sync.</p>
+        <p>When advertising is enabled, Google and its advertising partners may collect and share device or other identifiers (including the advertising identifier when available), IP address (which may be used to estimate general location), app and ad interactions, and diagnostic information for ad delivery, advertising measurement, analytics, and fraud prevention. They also process advertising-consent choices. TallyTV does not add your watch history, media-library titles, search text, or sync credentials to ad requests. Non-personalized ads may still involve data processing for these purposes.</p>
+        <p>TallyTV uses Google's User Messaging Platform to obtain advertising consent where required and checks whether ads may be requested before enabling them. On Android, when required, you can revisit your choices under <strong>Settings &gt; Privacy &gt; Ad privacy choices</strong>; on iOS, use <strong>Settings &gt; Privacy Choices</strong> when available. Your device's privacy settings also provide advertising-identifier controls. Android ad requests and consent prompts are deferred during the initial seven-day ad-free period. Learn more about <a href="https://policies.google.com/technologies/partner-sites">how Google uses information from apps that use its services</a> and <a href="https://policies.google.com/technologies/ads">Google's advertising technologies</a>.</p>
+
+        <h2>4a. Product Analytics on Android</h2>
+        <p>The production Android app uses PostHog for optional product analytics to understand feature usage and reliability. This is enabled by default and can be turned off under <strong>Settings &gt; Privacy &gt; Share anonymous analytics</strong>. This setting is separate from advertising consent and is not changed by purchasing Pro or by the introductory ad-free period.</p>
+        <p>Analytics events include app installation, updates, opens, screen categories, onboarding completion, and coarse outcomes of searches, syncs, imports, and purchases. Events can include app and operating-system versions, device model/type, a random installation identifier, and a session identifier. TallyTV does not send media titles, watch history, search queries or Ask TallyTV prompts, account names, email addresses, passwords, tokens, server addresses, payment-card details, or purchase tokens in these events. Session recording, screenshots, and identified person profiles are disabled. IP-based geolocation enrichment is disabled; like other network services, the analytics provider receives the connection's IP address when processing a request.</p>
+        <p>Turning analytics off stops future analytics collection and transmission and clears queued analytics events and the app's analytics identifier. Re-enabling analytics creates a new random identifier. Opting out does not automatically erase events already received by PostHog. Analytics data is processed for product improvement under our provider's service and retention settings; contact us with questions or deletion requests. We may be unable to link anonymous events to you. Debug and test builds do not send production analytics.</p>
 
         <h2>5. Purchases</h2>
         <p>Apple processes purchases made in the iOS app through the App Store, and Google processes purchases made in the Android app through Google Play. TallyTV reads transaction and entitlement information needed to determine the product purchased and whether it is active, expired, canceled, pending, or revoked. onelldev does not receive your payment-card details. Apple, Google, App Store Connect, and Google Play Console may provide transaction and sales reporting under their respective policies.</p>
 
         <h2>6. Support Communications</h2>
-        <p>TallyTV does not create a developer-held user profile. If you contact support, onelldev receives your email address and the information you include. Support messages are used to respond to you, troubleshoot issues, and maintain reasonable support records.</p>
+        <p>TallyTV does not create a named TallyTV account profile. If you contact support, onelldev receives your email address and the information you include. Support messages are used to respond to you, troubleshoot issues, and maintain reasonable support records.</p>
 
         <h2>7. Sharing and Third-Party Policies</h2>
-        <p>onelldev does not sell your personal information. Data is shared only as needed with services you choose to use, with Google for advertising and Android purchases, with Apple for iOS purchases, or when required for legal, fraud-prevention, or security purposes.</p>
+        <p>onelldev does not sell your personal information for money. Data is shared as described above with services you choose to use, with Google and its advertising partners for advertising, with Google and Apple for purchases, with PostHog for enabled product analytics, or when required for legal, fraud-prevention, or security purposes. Depending on applicable law, certain advertising disclosures may be considered a sale, sharing, or targeted advertising; use the advertising privacy choices offered in the app where applicable.</p>
         <ul>
             <li><a href="https://policies.google.com/privacy">Google Privacy Policy</a></li>
+            <li><a href="https://posthog.com/privacy">PostHog Privacy Policy</a></li>
+            <li><a href="https://www.plex.tv/about/privacy-legal/">Plex Privacy and Legal Information</a></li>
+            <li><a href="https://jellyfin.org/">Jellyfin project</a> (your server operator's practices also apply)</li>
             <li><a href="https://www.apple.com/legal/privacy/">Apple Privacy Policy</a></li>
             <li><a href="https://www.themoviedb.org/privacy-policy">TMDB Privacy Policy</a></li>
             <li><a href="https://simkl.com/privacy/">SIMKL Privacy Policy</a></li>
@@ -81,6 +92,7 @@
             <li>Disconnect SIMKL, Trakt, or Yamtrack in TallyTV to remove that service's locally stored connection credentials. For certainty, disconnect services before uninstalling because secure-storage and device-backup behavior can vary by platform and settings.</li>
             <li>To delete data held by SIMKL, Trakt, Yamtrack, TMDB, Google, or Apple, use that provider's controls or contact its operator. Their retention rules apply independently.</li>
             <li>You may ask onelldev to delete a support conversation, subject to legal and security recordkeeping requirements.</li>
+            <li>Advertising and analytics data already received by providers is not removed by resetting or uninstalling TallyTV. Use the relevant privacy controls or contact us or the provider regarding access or deletion. The provider's retention rules and applicable legal obligations apply.</li>
         </ul>
 
         <h2>9. Security</h2>
